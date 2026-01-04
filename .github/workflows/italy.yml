@@ -1,0 +1,55 @@
+name: Italy LiveTV Files
+
+on:
+  schedule:
+    # Run every 8 hours (approximately 00:00, 08:00, 16:00 UTC)
+    # This corresponds to approximately 05:30, 13:30, 21:30 IST
+    - cron: '0 */8 * * *'
+  workflow_dispatch:  # Allow manual trigger
+  push:
+    paths:
+      - 'BugsfreeMain/Italy.py'
+      - '.github/workflows/italy.yml'
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Required to commit and push changes
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Fetch all history for proper git operations
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      
+      - name: Install dependencies
+        run: |
+          pip install requests pytz beautifulsoup4
+      
+      - name: Run Italy collector
+        run: |
+          python BugsfreeMain/Italy.py
+      
+      - name: Check for changes
+        id: verify-changed-files
+        run: |
+          if [ -n "$(git status --porcelain LiveTV/Italy/)" ]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Commit and push changes
+        if: steps.verify-changed-files.outputs.changed == 'true'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add LiveTV/Italy/
+          git commit -m "Update Italy LiveTV files [skip ci]" || exit 0
+          git push
