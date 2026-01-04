@@ -139,8 +139,22 @@ def fetch_source(url):
 def export_to_m3u(channels, output_dir):
     """Export to M3U format"""
     output_path = os.path.join(output_dir, 'LiveTV.m3u')
+    
+    # Italian EPG sources (try multiple sources)
+    epg_sources = [
+        "http://epg-guide.com/dttsat.xml",  # Italian EPG source
+        "https://raw.githubusercontent.com/iptv-org/epg/master/guides/it/epg.xml",  # iptv-org Italian EPG
+    ]
+    
+    # Use the first available EPG source
+    epg_url = epg_sources[0] if epg_sources else None
+    
     with open(output_path, 'w', encoding='utf-8') as f:
-        f.write('#EXTM3U\n')
+        # Write header with EPG URL if available
+        if epg_url:
+            f.write(f'#EXTM3U url-tvg="{epg_url}"\n')
+        else:
+            f.write('#EXTM3U\n')
         for ch in channels:
             # Build EXTINF line with all attributes
             extinf = '#EXTINF:-1'
