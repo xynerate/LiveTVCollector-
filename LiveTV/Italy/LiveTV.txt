@@ -14,20 +14,28 @@ Source: https://iptv-org.github.io/iptv/languages/ita.m3u
 TVG ID: ClassTVModa.it@SD
 --------------------------------------------------
 
-Group: Entertainment
-Name: CG Entertainment
-URL: https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
-Logo: https://i.imgur.com/XeWzy7e.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: CGEntertainment.it@SD
---------------------------------------------------
-
 Group: Music
 Name: Euro Indie Music Chart TV (360p)
 URL: http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 Logo: https://i.imgur.com/lF0iofX.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
 TVG ID: EuroIndieMusicChartTV.it@SD
+--------------------------------------------------
+
+Group: General
+Name: Canale 7 (480p)
+URL: http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
+Logo: https://i.postimg.cc/qByKyv17/canale7.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: Canale7.it@SD
+--------------------------------------------------
+
+Group: Entertainment
+Name: CG Entertainment
+URL: https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
+Logo: https://i.imgur.com/XeWzy7e.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: CGEntertainment.it@SD
 --------------------------------------------------
 
 Group: Undefined
@@ -47,11 +55,11 @@ TVG ID: 51RadioTV.it@SD
 --------------------------------------------------
 
 Group: General
-Name: Canale 7 (480p)
-URL: http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
-Logo: https://i.postimg.cc/qByKyv17/canale7.png
+Name: Antenna 2 TV (720p)
+URL: https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
+Logo: https://i.imgur.com/kNrzk3X.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: Canale7.it@SD
+TVG ID: Antenna2TV.it@SD
 --------------------------------------------------
 
 Group: Comedy
@@ -71,11 +79,11 @@ TVG ID: 12TVParma.it@SD
 --------------------------------------------------
 
 Group: General
-Name: Antenna 2 TV (720p)
-URL: https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8
-Logo: https://i.imgur.com/kNrzk3X.png
+Name: Alto Adige TV (720p)
+URL: https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
+Logo: https://i.imgur.com/yt7JJrn.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: Antenna2TV.it@SD
+TVG ID: AltoAdigeTV.it@SD
 --------------------------------------------------
 
 Group: Music
@@ -86,44 +94,28 @@ Source: https://iptv-org.github.io/iptv/languages/ita.m3u
 TVG ID: CompanyTV.it@SD
 --------------------------------------------------
 
-Group: General
-Name: Alto Adige TV (720p)
-URL: https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
-Logo: https://i.imgur.com/yt7JJrn.png
+Group: News
+Name: Giornale Radio TV (720p)
+URL: https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
+Logo: https://i.imgur.com/2Y5qiao.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: AltoAdigeTV.it@SD
+TVG ID: GiornaleRadioTV.it@SD
 --------------------------------------------------
 
-Group: Kids
-Name: BeJoy.kids (1080p)
-URL: https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8
-Logo: https://bejoy.kids/wp-content/uploads/2025/09/Logo_Bejoy.png
+Group: News
+Name: èTv Marche (720p)
+URL: https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
+Logo: https://i.imgur.com/U6OW577.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: BeJoykids.it@HD
+TVG ID: eTvMarche.it@SD
 --------------------------------------------------
 
-Group: Undefined
-Name: CarinaTV
-URL: https://samson.streamerr.co:8081/carinatv/tracks-v1a1/playlist.m3u8
-Logo: https://i.imgur.com/ANGD7gv.png
+Group: Shop
+Name: Casa Italia 53 (720p)
+URL: https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
+Logo: https://i.imgur.com/X8BI1Md.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: CarinaTV.it@SD
---------------------------------------------------
-
-Group: Culture
-Name: Aurora Arte (480p)
-URL: https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
-Logo: https://i.imgur.com/Y1Yq3iV.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: AuroraArte.it@SD
---------------------------------------------------
-
-Group: General
-Name: Canale 2 Altamura (576p) [Not 24/7]
-URL: https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
-Logo: https://i.imgur.com/7XXdN5T.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: Canale2Altamura.it@SD
+TVG ID: CasaItalia53.it@SD
 --------------------------------------------------
 
 Group: News
@@ -134,12 +126,84 @@ Source: https://iptv-org.github.io/iptv/languages/ita.m3u
 TVG ID: eTvRete7.it@SD
 --------------------------------------------------
 
-Group: Sports
-Name: ACI Sport TV (1080p)
-URL: https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
-Logo: https://i.imgur.com/U8cHMOt.png
+Group: General
+Name: Canale 2 Altamura (576p) [Not 24/7]
+URL: https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8
+Logo: https://i.imgur.com/7XXdN5T.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: ACISportTV.it@SD
+TVG ID: Canale2Altamura.it@SD
+--------------------------------------------------
+
+Group: General
+Name: 111 TV (720p)
+URL: https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
+Logo: https://i.imgur.com/kVREx1Q.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: 111TV.it@SD
+--------------------------------------------------
+
+Group: Undefined
+Name: CarinaTV
+URL: https://samson.streamerr.co:8081/carinatv/tracks-v1a1/playlist.m3u8
+Logo: https://i.imgur.com/ANGD7gv.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: CarinaTV.it@SD
+--------------------------------------------------
+
+Group: General
+Name: Elive TV Brescia (720p) [Not 24/7]
+URL: https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
+Logo: https://i.imgur.com/gZxjLph.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: EliveTVBrescia.it@SD
+--------------------------------------------------
+
+Group: Culture
+Name: Aurora Arte (480p)
+URL: https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
+Logo: https://i.imgur.com/Y1Yq3iV.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: AuroraArte.it@SD
+--------------------------------------------------
+
+Group: Sports
+Name: Horse TV (720p)
+URL: https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
+Logo: https://i.imgur.com/nK4UUX4.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: HorseTV.it@SD
+--------------------------------------------------
+
+Group: General
+Name: Esperia TV (480p) [Not 24/7]
+URL: https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/8/81/ESPERIATV18_verde.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: EsperiaTV.it@SD
+--------------------------------------------------
+
+Group: Music
+Name: 70-80 TV (1080P)
+URL: https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
+Logo: https://i.imgur.com/y4kNV3Q.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: 7080TV.it@SD
+--------------------------------------------------
+
+Group: News
+Name: Etna Espresso Channel (720p)
+URL: https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
+Logo: https://i.imgur.com/lSI5QgV.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: EtnaEspressoChannel.it@SD
+--------------------------------------------------
+
+Group: Undefined
+Name: Italia 2 TV (480p) [Geo-blocked]
+URL: http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
+Logo: https://i.imgur.com/TDSgG28.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: Italia2TV.it@SD
 --------------------------------------------------
 
 Group: General
@@ -151,67 +215,35 @@ TVG ID: CalabriaTV.it@SD
 --------------------------------------------------
 
 Group: General
-Name: Elive TV Brescia (720p) [Not 24/7]
-URL: https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8
-Logo: https://i.imgur.com/gZxjLph.png
+Name: Entella TV (720p) [Not 24/7]
+URL: https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8
+Logo: https://i.imgur.com/pGJcMmB.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: EliveTVBrescia.it@SD
+TVG ID: EntellaTV.it@SD
 --------------------------------------------------
 
-Group: News
-Name: èTv Marche (720p)
-URL: https://live.ipstream.it/etvmarche/etvmarche.stream/playlist.m3u8
-Logo: https://i.imgur.com/U6OW577.png
+Group: Kids
+Name: BeJoy.kids (1080p)
+URL: https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8
+Logo: https://bejoy.kids/wp-content/uploads/2025/09/Logo_Bejoy.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: eTvMarche.it@SD
---------------------------------------------------
-
-Group: News
-Name: Giornale Radio TV (720p)
-URL: https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
-Logo: https://i.imgur.com/2Y5qiao.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: GiornaleRadioTV.it@SD
---------------------------------------------------
-
-Group: General
-Name: Esperia TV (480p) [Not 24/7]
-URL: https://59d7d6f47d7fc.streamlock.net/esperiatv/esperiatv/playlist.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/8/81/ESPERIATV18_verde.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: EsperiaTV.it@SD
---------------------------------------------------
-
-Group: Shop
-Name: Casa Italia 53 (720p)
-URL: https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
-Logo: https://i.imgur.com/X8BI1Md.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: CasaItalia53.it@SD
---------------------------------------------------
-
-Group: Undefined
-Name: CafeTV24 (720p)
-URL: https://srvx1.selftv.video/cafe/live/playlist.m3u8
-Logo: https://i.imgur.com/SRFzjja.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: CafeTV24.it@SD
---------------------------------------------------
-
-Group: General
-Name: DI.TV 80 (720p)
-URL: https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8
-Logo: https://i.imgur.com/2AqKAMy.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: DITV80.it@SD
+TVG ID: BeJoykids.it@HD
 --------------------------------------------------
 
 Group: Sports
-Name: Horse TV (720p)
-URL: https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
-Logo: https://i.imgur.com/nK4UUX4.png
+Name: ACI Sport TV (1080p)
+URL: https://webstream.multistream.it/memfs/e2cb3629-c1a2-495b-b43a-9eb386f04ed8.m3u8
+Logo: https://i.imgur.com/U8cHMOt.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: HorseTV.it@SD
+TVG ID: ACISportTV.it@SD
+--------------------------------------------------
+
+Group: General
+Name: Bom Channel (720p)
+URL: https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
+Logo: https://bomchannel.it/wp-content/uploads/2025/02/Tavola-disegno-1-768x432.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: BomChannel.it@SD
 --------------------------------------------------
 
 Group: Undefined
@@ -223,43 +255,11 @@ TVG ID: EuroTV.it@SD
 --------------------------------------------------
 
 Group: General
-Name: Bom Channel (720p)
-URL: https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
-Logo: https://bomchannel.it/wp-content/uploads/2025/02/Tavola-disegno-1-768x432.png
+Name: DI.TV 80 (720p)
+URL: https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8
+Logo: https://i.imgur.com/2AqKAMy.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: BomChannel.it@SD
---------------------------------------------------
-
-Group: Music
-Name: 70-80 TV (1080P)
-URL: https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
-Logo: https://i.imgur.com/y4kNV3Q.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: 7080TV.it@SD
---------------------------------------------------
-
-Group: General
-Name: 111 TV (720p)
-URL: https://5db313b643fd8.streamlock.net/111/111/playlist.m3u8
-Logo: https://i.imgur.com/kVREx1Q.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: 111TV.it@SD
---------------------------------------------------
-
-Group: News
-Name: Etna Espresso Channel (720p)
-URL: https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8
-Logo: https://i.imgur.com/lSI5QgV.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: EtnaEspressoChannel.it@SD
---------------------------------------------------
-
-Group: General
-Name: Entella TV (720p) [Not 24/7]
-URL: https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8
-Logo: https://i.imgur.com/pGJcMmB.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: EntellaTV.it@SD
+TVG ID: DITV80.it@SD
 --------------------------------------------------
 
 Group: General
@@ -279,43 +279,35 @@ TVG ID: CameradeiDeputati.it@SD
 --------------------------------------------------
 
 Group: General
-Name: Azzurra TV (576p)
-URL: https://ed05.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8
-Logo: https://i.imgur.com/qWIZNEc.png
+Name: Bergamo TV (1080p)
+URL: https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist_dvr.m3u8
+Logo: https://i.imgur.com/Np3RaKv.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: AzzurraTV.it@SD
---------------------------------------------------
-
-Group: Undefined
-Name: Italia 2 TV (480p) [Geo-blocked]
-URL: http://wms.shared.streamshow.it/italia2/mp4:italia2/playlist.m3u8
-Logo: https://i.imgur.com/TDSgG28.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: Italia2TV.it@SD
---------------------------------------------------
-
-Group: General
-Name: GO-TV Canale 163 (720p)
-URL: https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
-Logo: https://i.imgur.com/11V0QSp.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: GOTVCanale163.it@SD
---------------------------------------------------
-
-Group: General
-Name: GRP VERATV (576p)
-URL: https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5_output_0.m3u8
-Logo: https://i.imgur.com/jasSHXJ.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: GRPVERATV.it@SD
+TVG ID: BergamoTV.it@SD
 --------------------------------------------------
 
 Group: Music
-Name: Kiss Kiss TV (1080p)
-URL: https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
-Logo: https://i.imgur.com/ja6c2YZ.png
+Name: 7 YOU & ME (720p)
+URL: https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8
+Logo: https://i.imgur.com/Rte2K3x.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: KissKissTV.it@SD
+TVG ID: 7YOUME.it@HD
+--------------------------------------------------
+
+Group: Entertainment
+Name: Italia 2 (480p) [Geo-blocked]
+URL: https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_Italia2.svg/512px-Logo_Italia2.svg.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: Italia2.it@SD
+--------------------------------------------------
+
+Group: Music
+Name: 7 RadioVisione (720p)
+URL: https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
+Logo: https://radio7note.com/img/favicon/android-icon-192x192.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: 7RadioVisione.it@HD
 --------------------------------------------------
 
 Group: Sports
@@ -335,43 +327,19 @@ TVG ID: ItalianFishingTV.it@SD
 --------------------------------------------------
 
 Group: Music
+Name: Kiss Kiss TV (1080p)
+URL: https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8
+Logo: https://i.imgur.com/ja6c2YZ.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: KissKissTV.it@SD
+--------------------------------------------------
+
+Group: Music
 Name: Kiss Kiss Napoli TV (720p)
 URL: https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
 Logo: https://i.imgur.com/RsGiBwE.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
 TVG ID: KissKissNapoliTV.it@SD
---------------------------------------------------
-
-Group: Entertainment
-Name: Italia 2 (480p) [Geo-blocked]
-URL: https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_Italia2.svg/512px-Logo_Italia2.svg.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: Italia2.it@SD
---------------------------------------------------
-
-Group: General
-Name: Bergamo TV (1080p)
-URL: https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist_dvr.m3u8
-Logo: https://i.imgur.com/Np3RaKv.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: BergamoTV.it@SD
---------------------------------------------------
-
-Group: Music
-Name: 7 RadioVisione (720p)
-URL: https://stream10.xdevel.com/video1s976543-1932/stream/playlist.m3u8
-Logo: https://radio7note.com/img/favicon/android-icon-192x192.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: 7RadioVisione.it@HD
---------------------------------------------------
-
-Group: Music
-Name: 7 YOU & ME (720p)
-URL: https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8
-Logo: https://i.imgur.com/Rte2K3x.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: 7YOUME.it@HD
 --------------------------------------------------
 
 Group: General
@@ -380,6 +348,14 @@ URL: https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr
 Logo: https://i.imgur.com/YV27Chs.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
 TVG ID: DeejayTV.it@SD
+--------------------------------------------------
+
+Group: Series
+Name: Donna TV (480p)
+URL: https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
+Logo: https://i.postimg.cc/6QmLQbY4/donnatv.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: DonnaTV.it@SD
 --------------------------------------------------
 
 Group: General
@@ -391,43 +367,19 @@ TVG ID: Canale21Extra.it@SD
 --------------------------------------------------
 
 Group: General
-Name: Otto Channel (480p)
-URL: https://ottop-live-meride.akamaized.net/hls/live/2039996/ch1/playlist.m3u8
-Logo: https://i.imgur.com/zxdwM4f.png
+Name: GO-TV Canale 163 (720p)
+URL: https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
+Logo: https://i.imgur.com/11V0QSp.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: OttoChannel.it@SD
---------------------------------------------------
-
-Group: Religious
-Name: Giovanni Paolo TV (1080p)
-URL: https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8
-Logo: https://www.lyngsat.com/logo/tv/gg/giovanni-paolo-tv-it.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: GiovanniPaoloTV.it@SD
---------------------------------------------------
-
-Group: Series
-Name: Donna TV (480p)
-URL: https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
-Logo: https://i.postimg.cc/6QmLQbY4/donnatv.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: DonnaTV.it@SD
---------------------------------------------------
-
-Group: Entertainment
-Name: Canale 5 HD
-URL: https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/512px-Canale_5_-_2018_logo.svg.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: Canale5.it@HD
+TVG ID: GOTVCanale163.it@SD
 --------------------------------------------------
 
 Group: General
-Name: Luna TV
-URL: https://5f22d76e220e1.streamlock.net/lunatv/lunatv/playlist.m3u8
-Logo: https://www.lyngsat.com/logo/tv/ll/luna-tv-it.png
+Name: GRP VERATV (576p)
+URL: https://webstream.multistream.it/memfs/a3195c96-f884-4c74-924f-2648814fc0b5_output_0.m3u8
+Logo: https://i.imgur.com/jasSHXJ.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: LunaTV.it@SD
+TVG ID: GRPVERATV.it@SD
 --------------------------------------------------
 
 Group: Kids
@@ -438,28 +390,28 @@ Source: https://iptv-org.github.io/iptv/languages/ita.m3u
 TVG ID: IuniorTV.it@SD
 --------------------------------------------------
 
-Group: Entertainment
-Name: Gold TV (576p)
-URL: https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
-Logo: https://i.imgur.com/Yzc47k9.png
+Group: Religious
+Name: Giovanni Paolo TV (1080p)
+URL: https://media2021.rtvweb.com/giovannipaolotv/web/playlist.m3u8
+Logo: https://www.lyngsat.com/logo/tv/gg/giovanni-paolo-tv-it.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: GoldTV.it@SD
+TVG ID: GiovanniPaoloTV.it@SD
 --------------------------------------------------
 
-Group: Undefined
-Name: Radio 51 TV (480p) [Geo-blocked]
-URL: http://178.32.140.155/canale51/canale51/playlist.m3u8
-Logo: https://i.imgur.com/UupkBt6.png
+Group: General
+Name: Otto Channel (480p)
+URL: https://ottop-live-meride.akamaized.net/hls/live/2039996/ch1/playlist.m3u8
+Logo: https://i.imgur.com/zxdwM4f.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: Radio51TV.it@SD
+TVG ID: OttoChannel.it@SD
 --------------------------------------------------
 
-Group: News
-Name: Minformo TV (720p)
-URL: https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
-Logo: https://i.imgur.com/9Oq6fLw.png
+Group: General
+Name: Luna TV
+URL: https://5f22d76e220e1.streamlock.net/lunatv/lunatv/playlist.m3u8
+Logo: https://www.lyngsat.com/logo/tv/ll/luna-tv-it.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: MinformoTV.it@SD
+TVG ID: LunaTV.it@SD
 --------------------------------------------------
 
 Group: Religious
@@ -470,28 +422,20 @@ Source: https://iptv-org.github.io/iptv/languages/ita.m3u
 TVG ID: PadrePioTV.it@SD
 --------------------------------------------------
 
+Group: General
+Name: Cusano Italia TV (720p)
+URL: https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
+Logo: https://i.imgur.com/fOluzuE.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: CusanoItaliaTV.it@SD
+--------------------------------------------------
+
 Group: Entertainment
 Name: Gold TV Sat (576p)
 URL: https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
 Logo: https://i.imgur.com/gQzNIg5.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
 TVG ID: GoldTVSat.it@SD
---------------------------------------------------
-
-Group: News
-Name: Radio Roma News
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radioromanews.m3u8
-Logo: https://i.imgur.com/E2BhLK4.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: RadioRomaNews.it@SD
---------------------------------------------------
-
-Group: Shop
-Name: QVC Italia (540p)
-URL: https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
-Logo: https://i.imgur.com/6TWUVrh.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: QVC.it@SD
 --------------------------------------------------
 
 Group: Religious
@@ -502,6 +446,62 @@ Source: https://iptv-org.github.io/iptv/languages/ita.m3u
 TVG ID: MedjugorjeItaliaTV.it@SD
 --------------------------------------------------
 
+Group: News
+Name: Minformo TV (720p)
+URL: https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8
+Logo: https://i.imgur.com/9Oq6fLw.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: MinformoTV.it@SD
+--------------------------------------------------
+
+Group: Entertainment
+Name: Gold TV (576p)
+URL: https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
+Logo: https://i.imgur.com/Yzc47k9.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: GoldTV.it@SD
+--------------------------------------------------
+
+Group: General
+Name: La C TV (720p)
+URL: https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8
+Logo: https://i.imgur.com/TF4LKp0.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: LaCTV.it@SD
+--------------------------------------------------
+
+Group: News
+Name: LaC News 24 (720p)
+URL: https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
+Logo: https://www.omnys.com/media/news/lac-news24-icona.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: LaCNews24.it@SD
+--------------------------------------------------
+
+Group: News
+Name: Radio Roma News
+URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radioromanews.m3u8
+Logo: https://i.imgur.com/E2BhLK4.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: RadioRomaNews.it@SD
+--------------------------------------------------
+
+Group: Culture
+Name: Paci Contemporary Channel (720p)
+URL: https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8
+Logo: https://i.postimg.cc/L8KNjsK4/pacicontemporarychannel.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: PaciContemporaryChannel.it@SD
+--------------------------------------------------
+
+Group: Undefined
+Name: Radio 51 TV (480p) [Geo-blocked]
+URL: http://178.32.140.155/canale51/canale51/playlist.m3u8
+Logo: https://i.imgur.com/UupkBt6.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: Radio51TV.it@SD
+--------------------------------------------------
+
 Group: General
 Name: Onda Novara TV (720p) [Not 24/7]
 URL: https://585b674743bbb.streamlock.net/9006/9006/master.m3u8
@@ -510,36 +510,12 @@ Source: https://iptv-org.github.io/iptv/languages/ita.m3u
 TVG ID: OndaNovaraTV.it@SD
 --------------------------------------------------
 
-Group: Music
-Name: m2o TV (1080p)
-URL: https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/512px-Radio_m2o_-_Logo_2019.svg.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: m2oTV.it@SD
---------------------------------------------------
-
 Group: General
 Name: Onda TV (568p)
 URL: https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w1373908906.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/it/thumb/9/99/Ondatv.jpg/512px-Ondatv.jpg
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
 TVG ID: OndaTV.it@SD
---------------------------------------------------
-
-Group: Undefined
-Name: Radio Roma Television
-URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radioromatv.m3u8
-Logo: https://i.imgur.com/E2BhLK4.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: RadioRomaTelevision.it@SD
---------------------------------------------------
-
-Group: Sports
-Name: MadeinBO TV (1080p)
-URL: https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
-Logo: https://i.postimg.cc/TY4qcYz5/madeinbotv.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: MadeinBOTV.it@SD
 --------------------------------------------------
 
 Group: General
@@ -551,59 +527,11 @@ TVG ID: LaTR3Marsala.it@SD
 --------------------------------------------------
 
 Group: General
-Name: La C TV (720p)
-URL: https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S47282891/JWjL3xqPf4bX/playlist.m3u8
-Logo: https://i.imgur.com/TF4LKp0.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: LaCTV.it@SD
---------------------------------------------------
-
-Group: General
 Name: Prima TV Sicilia (720p)
 URL: https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
 Logo: https://i.imgur.com/HE9c8Sk.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
 TVG ID: PrimaTV.it@SD
---------------------------------------------------
-
-Group: Culture
-Name: Paci Contemporary Channel (720p)
-URL: https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8
-Logo: https://i.postimg.cc/L8KNjsK4/pacicontemporarychannel.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: PaciContemporaryChannel.it@SD
---------------------------------------------------
-
-Group: News
-Name: LaC News 24 (720p)
-URL: https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
-Logo: https://www.omnys.com/media/news/lac-news24-icona.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: LaCNews24.it@SD
---------------------------------------------------
-
-Group: Undefined
-Name: Radio Birikina TV (720p) [Not 24/7]
-URL: https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
-Logo: https://i.imgur.com/CFAx6m5.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: RadioBirikinaTV.it@SD
---------------------------------------------------
-
-Group: General
-Name: Italia 1 HD
-URL: https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Italia_1_logo.svg/512px-Italia_1_logo.svg.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: Italia1.it@HD
---------------------------------------------------
-
-Group: Culture
-Name: Orler TV (420p) [Not 24/7]
-URL: https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
-Logo: https://i.postimg.cc/RZH2z89h/orlertv.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: OrlerTV.it@SD
 --------------------------------------------------
 
 Group: General
@@ -622,28 +550,52 @@ Source: https://iptv-org.github.io/iptv/languages/ita.m3u
 TVG ID: ParolediVita.it@SD
 --------------------------------------------------
 
-Group: General
-Name: PrimAntenna TV (720p)
-URL: https://5f22d76e220e1.streamlock.net/primantenna14/primantenna14/playlist.m3u8
-Logo: https://i.imgur.com/4Bx2321.png
+Group: Undefined
+Name: Radio Roma Television
+URL: https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/radioromatv.m3u8
+Logo: https://i.imgur.com/E2BhLK4.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: PrimAntennaTV.it@SD
+TVG ID: RadioRomaTelevision.it@SD
+--------------------------------------------------
+
+Group: Music
+Name: m2o TV (1080p)
+URL: https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/512px-Radio_m2o_-_Logo_2019.svg.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: m2oTV.it@SD
 --------------------------------------------------
 
 Group: General
-Name: LA7 HD
-URL: https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/512px-LA7_-_Logo_2011.svg.png
+Name: PrimaFree
+URL: https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
+Logo: https://irp.cdn-website.com/184bfd6a/MOBILE/jpg/477.jpg
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: LA7.it@HD
+TVG ID: PrimaFree.it@SD
+--------------------------------------------------
+
+Group: Shop
+Name: QVC Italia (540p)
+URL: https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+Logo: https://i.imgur.com/6TWUVrh.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: QVC.it@SD
+--------------------------------------------------
+
+Group: Culture
+Name: Orler TV (420p) [Not 24/7]
+URL: https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
+Logo: https://i.postimg.cc/RZH2z89h/orlertv.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: OrlerTV.it@SD
 --------------------------------------------------
 
 Group: Undefined
-Name: La7 Cinema (720p)
-URL: https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
-Logo: https://i.imgur.com/khPweok.png
+Name: Radio Birikina TV (720p) [Not 24/7]
+URL: https://56b50ada2d659.streamlock.net/RadioBirikinaTV/livestream/playlist.m3u8
+Logo: https://i.imgur.com/CFAx6m5.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: La7Cinema.it@HD
+TVG ID: RadioBirikinaTV.it@SD
 --------------------------------------------------
 
 Group: Undefined
@@ -662,12 +614,36 @@ Source: https://iptv-org.github.io/iptv/languages/ita.m3u
 TVG ID: RadioIbizaTV.it@SD
 --------------------------------------------------
 
+Group: Outdoor;Travel
+Name: Peer TV Alto Adige (1280p)
+URL: https://iptv.peer.biz/live/peertv-it.m3u8
+Logo: https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: PeerTVAltoAdige.it@SD
+--------------------------------------------------
+
 Group: Music
 Name: Radio Piter Pan TV (720p) [Not 24/7]
 URL: https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
 Logo: https://i.imgur.com/hbqVWV4.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
 TVG ID: RadioPiterPanTV.it@SD
+--------------------------------------------------
+
+Group: Undefined
+Name: Radio Iglesias Sardegna (576p) [Geo-blocked]
+URL: https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8
+Logo: https://i.imgur.com/KDtVpLl.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: RadioIglesiasSardegna.it@SD
+--------------------------------------------------
+
+Group: General
+Name: Odeon 24 (288p)
+URL: https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8
+Logo: https://i.postimg.cc/MKc0GfT3/odeon24.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: Odeon24.it@SD
 --------------------------------------------------
 
 Group: Undefined
@@ -679,14 +655,6 @@ TVG ID: RadioStudioDeltaTV.it@SD
 --------------------------------------------------
 
 Group: Undefined
-Name: Radio Iglesias Sardegna (576p) [Geo-blocked]
-URL: https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8
-Logo: https://i.imgur.com/KDtVpLl.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: RadioIglesiasSardegna.it@SD
---------------------------------------------------
-
-Group: Undefined
 Name: Radio Iglesias (576p) [Geo-blocked]
 URL: http://wms.shared.streamshow.it/visualradio/mp4:visualradio/playlist.m3u8
 Logo: https://i.postimg.cc/C1ccDybF/radioiglesias.png
@@ -695,19 +663,11 @@ TVG ID: RadioIglesias.it@SD
 --------------------------------------------------
 
 Group: General
-Name: Cusano Italia TV (720p)
-URL: https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
-Logo: https://i.imgur.com/fOluzuE.png
+Name: Le Cronache TV (720p)
+URL: http://77.68.40.210:8888/hls/cronache.m3u8
+Logo: https://i.imgur.com/d8ziiEJ.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: CusanoItaliaTV.it@SD
---------------------------------------------------
-
-Group: Outdoor;Travel
-Name: Peer TV Alto Adige (1280p)
-URL: https://iptv.peer.biz/live/peertv-it.m3u8
-Logo: https://www.peer.biz/peertv-iptv/peer-tv-alto-adige.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: PeerTVAltoAdige.it@SD
+TVG ID: LeCronacheTV.it@SD
 --------------------------------------------------
 
 Group: Music
@@ -726,36 +686,12 @@ Source: https://iptv-org.github.io/iptv/languages/ita.m3u
 TVG ID: PromovideoTV.it@SD
 --------------------------------------------------
 
-Group: General
-Name: Odeon 24 (288p)
-URL: https://streaming.softwarecreation.it/Odeon/Odeon/playlist.m3u8
-Logo: https://i.postimg.cc/MKc0GfT3/odeon24.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: Odeon24.it@SD
---------------------------------------------------
-
 Group: Undefined
-Name: Rai 1 (720p)
-URL: https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png
+Name: Primocanale (1080p) [Not 24/7]
+URL: https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
+Logo: https://i.imgur.com/eunZ2Sa.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: Rai1.it@SD
---------------------------------------------------
-
-Group: Undefined
-Name: ReggioTV (480p) [Not 24/7]
-URL: https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8
-Logo: https://i.imgur.com/cEwJkRV.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: ReggioTV.it@SD
---------------------------------------------------
-
-Group: Music
-Name: Radio Zeta TV (1080p)
-URL: https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
-Logo: https://i.imgur.com/K2xLMin.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: RadioZeta.it@SD
+TVG ID: Primocanale.it@SD
 --------------------------------------------------
 
 Group: Music
@@ -764,22 +700,6 @@ URL: https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UF
 Logo: https://i.imgur.com/RxeRlar.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
 TVG ID: Radiofreccia.it@SD
---------------------------------------------------
-
-Group: General
-Name: Le Cronache TV (720p)
-URL: http://77.68.40.210:8888/hls/cronache.m3u8
-Logo: https://i.imgur.com/d8ziiEJ.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: LeCronacheTV.it@SD
---------------------------------------------------
-
-Group: Undefined
-Name: Reteveneta (480p)
-URL: https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/playlist.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/it/d/df/Logo_Rete_Veneta.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: Reteveneta.it@SD
 --------------------------------------------------
 
 Group: Undefined
@@ -791,11 +711,35 @@ TVG ID: RDSSocialTV.it@SD
 --------------------------------------------------
 
 Group: Undefined
-Name: Rete Oro (720p) [Not 24/7]
-URL: https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
-Logo: https://i.postimg.cc/3wsvct7g/reteoro.png
+Name: Rai 1 (720p)
+URL: https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: ReteOro.it@SD
+TVG ID: Rai1.it@SD
+--------------------------------------------------
+
+Group: Music
+Name: Radio Zeta TV (1080p)
+URL: https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+Logo: https://i.imgur.com/K2xLMin.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: RadioZeta.it@SD
+--------------------------------------------------
+
+Group: Undefined
+Name: ReggioTV (480p) [Not 24/7]
+URL: https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8
+Logo: https://i.imgur.com/cEwJkRV.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: ReggioTV.it@SD
+--------------------------------------------------
+
+Group: Undefined
+Name: Reteveneta (480p)
+URL: https://59d7d6f47d7fc.streamlock.net/reteveneta/reteveneta/playlist.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/it/d/df/Logo_Rete_Veneta.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: Reteveneta.it@SD
 --------------------------------------------------
 
 Group: General
@@ -807,11 +751,11 @@ TVG ID: Rete8.it@SD
 --------------------------------------------------
 
 Group: Undefined
-Name: Rai 3 (720p) [Not 24/7]
-URL: https://wzstreaming.rai.it/TVlive/liveStream/chunklist_w823540263.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png
+Name: Rete Oro (720p) [Not 24/7]
+URL: https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
+Logo: https://i.postimg.cc/3wsvct7g/reteoro.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: Rai3.it@HD
+TVG ID: ReteOro.it@SD
 --------------------------------------------------
 
 Group: General
@@ -823,75 +767,11 @@ TVG ID: ReteTVItalia.it@SD
 --------------------------------------------------
 
 Group: Undefined
-Name: Primocanale (1080p) [Not 24/7]
-URL: https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8
-Logo: https://i.imgur.com/eunZ2Sa.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: Primocanale.it@SD
---------------------------------------------------
-
-Group: Undefined
 Name: San Marino RTV (720p)
 URL: https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/chunklist.m3u8
 Logo: https://i.postimg.cc/HLFT0KHC/sanmarinortv.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
 TVG ID: SanMarinoRTV.sm@SD
---------------------------------------------------
-
-Group: Education
-Name: Rai Scuola HD
-URL: https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/512px-Rai_Scuola_-_Logo_2017.svg.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: RaiScuola.it@HD
---------------------------------------------------
-
-Group: Sports
-Name: Rai Sport HD
-URL: https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
-Logo: https://i.imgur.com/6PEevOM.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: RaiSport.it@HD
---------------------------------------------------
-
-Group: News
-Name: Rai News 24 HD
-URL: https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
-Logo: https://i.imgur.com/n2u57y3.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: RaiNews24.it@HD
---------------------------------------------------
-
-Group: Undefined
-Name: Rai 1 HD (720p)
-URL: https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: Rai1.it@HD
---------------------------------------------------
-
-Group: Undefined
-Name: Rai Storia HD
-URL: https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/512px-Rai_Storia_-_Logo_2017.svg.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: RaiStoria.it@HD
---------------------------------------------------
-
-Group: Undefined
-Name: Rai 2 HD
-URL: https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/512px-Rai_2_-_Logo_2016.svg.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: Rai2.it@HD
---------------------------------------------------
-
-Group: Undefined
-Name: Rai Gulp HD
-URL: https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd
-Logo: https://i.imgur.com/irAhPJM.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: RaiGulp.it@HD
 --------------------------------------------------
 
 Group: Undefined
@@ -918,14 +798,6 @@ Source: https://iptv-org.github.io/iptv/languages/ita.m3u
 TVG ID: RTL1025Caliente.it@SD
 --------------------------------------------------
 
-Group: Undefined
-Name: Rete 4 HD
-URL: https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/500px-Rete_4_-_Logo_2018.svg.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: Rete4.it@HD
---------------------------------------------------
-
 Group: Music
 Name: RTL 102.5 Best (1080p)
 URL: https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_video.m3u8
@@ -934,12 +806,12 @@ Source: https://iptv-org.github.io/iptv/languages/ita.m3u
 TVG ID: RTL1025Best.it@SD
 --------------------------------------------------
 
-Group: Undefined
-Name: Rete Biella TV (720p) [Not 24/7]
-URL: https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
-Logo: https://i.imgur.com/I4OVxIb.png
+Group: Music
+Name: RTL 102.5 Napulè (1080p)
+URL: https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8
+Logo: https://i.imgur.com/HFPw1YW.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: ReteBiellaTV.it@SD
+TVG ID: RTL1025Napule.it@SD
 --------------------------------------------------
 
 Group: Music
@@ -951,19 +823,19 @@ TVG ID: RTL1025Disco.it@SD
 --------------------------------------------------
 
 Group: Music
-Name: RTL 102.5 TV (1080p)
-URL: https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
-Logo: https://i.imgur.com/75qUdR7.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: RTL1025TV.it@SD
---------------------------------------------------
-
-Group: Music
 Name: RTL 102.5 Traffic (1080p)
 URL: https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 Logo: https://i.imgur.com/EBftMcB.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
 TVG ID: RTL1025Traffic.it@SD
+--------------------------------------------------
+
+Group: Undefined
+Name: Rete Biella TV (720p) [Not 24/7]
+URL: https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
+Logo: https://i.imgur.com/I4OVxIb.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: ReteBiellaTV.it@SD
 --------------------------------------------------
 
 Group: Music
@@ -975,19 +847,27 @@ TVG ID: RTL1025BroSis.it@SD
 --------------------------------------------------
 
 Group: Music
-Name: RTL 102.5 Napulè (1080p)
-URL: https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8
-Logo: https://i.imgur.com/HFPw1YW.png
+Name: RTL 102.5 TV (1080p)
+URL: https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+Logo: https://i.imgur.com/75qUdR7.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: RTL1025Napule.it@SD
+TVG ID: RTL1025TV.it@SD
 --------------------------------------------------
 
 Group: Undefined
-Name: Tele Pavia (720p)
-URL: http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/6/66/LOGO_telePAVIA.png
+Name: RTP (404p)
+URL: https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/it/thumb/8/86/Logo_Radio_Televisione_Peloritana.svg/512px-Logo_Radio_Televisione_Peloritana.svg.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: Telepavia.it@SD
+TVG ID: RTP.it@SD
+--------------------------------------------------
+
+Group: General
+Name: RTV38 (576p)
+URL: https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/rtv38_live_main/main_576/chunks_dvr.m3u8
+Logo: https://i.imgur.com/YOlwudm.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: RTV38.it@SD
 --------------------------------------------------
 
 Group: General;Series
@@ -999,35 +879,19 @@ TVG ID: SuperTV.it@SD
 --------------------------------------------------
 
 Group: Undefined
-Name: Tele Abruzzo (384p)
-URL: http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
-Logo: https://i.imgur.com/XymK2PR.png
+Name: CafeTV24 (720p)
+URL: https://srvx1.selftv.video/cafe/live/playlist.m3u8
+Logo: https://i.imgur.com/SRFzjja.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: TeleAbruzzo.it@SD
+TVG ID: CafeTV24.it@SD
 --------------------------------------------------
 
-Group: Undefined
-Name: RSI La 1 (720p)
-URL: https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/512px-RSI_La_1_2012.svg.png
+Group: Sports
+Name: MadeinBO TV (1080p)
+URL: https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
+Logo: https://i.postimg.cc/TY4qcYz5/madeinbotv.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: RSILa1.ch@SD
---------------------------------------------------
-
-Group: Legislative
-Name: Senato TV (1080p)
-URL: https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
-Logo: https://i.imgur.com/h4NyN5d.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: SenatoTV.it@SD
---------------------------------------------------
-
-Group: Undefined
-Name: RSI La 2 (720p)
-URL: https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/512px-RSI_La_2_2012.svg.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: RSILa2.ch@SD
+TVG ID: MadeinBOTV.it@SD
 --------------------------------------------------
 
 Group: General
@@ -1036,46 +900,6 @@ URL: https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/pl
 Logo: https://upload.wikimedia.org/wikipedia/commons/0/0a/SuperSix_TV_Logo.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
 TVG ID: SuperSix.it@SD
---------------------------------------------------
-
-Group: General
-Name: RTV38 (576p)
-URL: https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/rtv38_live_main/main_576/chunks_dvr.m3u8
-Logo: https://i.imgur.com/YOlwudm.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: RTV38.it@SD
---------------------------------------------------
-
-Group: Undefined
-Name: Telefoggia (480p) [Not 24/7]
-URL: http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/playlist.m3u8
-Logo: https://i.imgur.com/ImvO2rV.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: Telefoggia.it@SD
---------------------------------------------------
-
-Group: Undefined
-Name: Tele Quattro (720p)
-URL: https://59d7d6f47d7fc.streamlock.net/telequattro/telequattro/playlist.m3u8
-Logo: https://telequattro.medianordest.it/wp-content/uploads/2020/10/T4Logo120.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: TeleQuattro.it@SD
---------------------------------------------------
-
-Group: Undefined
-Name: Super!
-URL: https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/512px-Super%21_logo_2021.svg.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: Super.it@SD
---------------------------------------------------
-
-Group: Undefined
-Name: TeleArena (480p)
-URL: https://5ce9406b73c33.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8
-Logo: https://i.imgur.com/cTmsGJD.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: TeleArena.it@SD
 --------------------------------------------------
 
 Group: Undefined
@@ -1094,6 +918,110 @@ Source: https://iptv-org.github.io/iptv/languages/ita.m3u
 TVG ID: SophiaTV.it@SD
 --------------------------------------------------
 
+Group: Undefined
+Name: Tele Abruzzo (384p)
+URL: http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
+Logo: https://i.imgur.com/XymK2PR.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: TeleAbruzzo.it@SD
+--------------------------------------------------
+
+Group: Undefined
+Name: Super!
+URL: https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/512px-Super%21_logo_2021.svg.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: Super.it@SD
+--------------------------------------------------
+
+Group: General
+Name: T9 (288p)
+URL: https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8
+Logo: https://i.imgur.com/kQKzpYj.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: T9.it@SD
+--------------------------------------------------
+
+Group: Legislative
+Name: Senato TV (1080p)
+URL: https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
+Logo: https://i.imgur.com/h4NyN5d.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: SenatoTV.it@SD
+--------------------------------------------------
+
+Group: General
+Name: Azzurra TV (576p)
+URL: https://ed05.top-ix.org/avtvlive/azzurra/streaming/playlist.m3u8
+Logo: https://i.imgur.com/qWIZNEc.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: AzzurraTV.it@SD
+--------------------------------------------------
+
+Group: Undefined
+Name: Tele Quattro (720p)
+URL: https://59d7d6f47d7fc.streamlock.net/telequattro/telequattro/playlist.m3u8
+Logo: https://telequattro.medianordest.it/wp-content/uploads/2020/10/T4Logo120.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: TeleQuattro.it@SD
+--------------------------------------------------
+
+Group: General
+Name: Tele One 16
+URL: https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
+Logo: https://i.postimg.cc/BbCgfcLb/teleone16.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: TeleOne16.it@SD
+--------------------------------------------------
+
+Group: Undefined
+Name: TeleArena (480p)
+URL: https://5ce9406b73c33.streamlock.net/TeleArena/TeleArena.stream/playlist.m3u8
+Logo: https://i.imgur.com/cTmsGJD.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: TeleArena.it@SD
+--------------------------------------------------
+
+Group: Undefined
+Name: Telefoggia (480p) [Not 24/7]
+URL: http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/playlist.m3u8
+Logo: https://i.imgur.com/ImvO2rV.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: Telefoggia.it@SD
+--------------------------------------------------
+
+Group: Undefined
+Name: Tele Pavia (720p)
+URL: http://wms.shared.streamshow.it/telepavia/telepavia/playlist.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/6/66/LOGO_telePAVIA.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: Telepavia.it@SD
+--------------------------------------------------
+
+Group: News
+Name: Telegela 647
+URL: https://64b16f23efbee.streamlock.net/telegela/telegela/playlist.m3u8
+Logo: https://i.imgur.com/ppkX45f.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: Telegela647.it@SD
+--------------------------------------------------
+
+Group: Undefined
+Name: Telemolise (1080p)
+URL: http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream/playlist.m3u8
+Logo: https://i.imgur.com/aTs88Es.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: Telemolise.it@SD
+--------------------------------------------------
+
+Group: Undefined
+Name: TeleMistretta (1080p)
+URL: https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8
+Logo: https://i.imgur.com/BLhvyEi.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: TeleMistretta.it@SD
+--------------------------------------------------
+
 Group: General
 Name: Telemantova (1080p)
 URL: https://5ce9406b73c33.streamlock.net/TeleMantova/livestream/playlist.m3u8
@@ -1110,38 +1038,6 @@ Source: https://iptv-org.github.io/iptv/languages/ita.m3u
 TVG ID: TeleMajg.it@SD
 --------------------------------------------------
 
-Group: Undefined
-Name: Telemolise (1080p)
-URL: http://185.202.128.1:1935/TelemoliseStream/telemoliseTV.stream/playlist.m3u8
-Logo: https://i.imgur.com/aTs88Es.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: Telemolise.it@SD
---------------------------------------------------
-
-Group: News
-Name: Telegela 647
-URL: https://64b16f23efbee.streamlock.net/telegela/telegela/playlist.m3u8
-Logo: https://i.imgur.com/ppkX45f.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: Telegela647.it@SD
---------------------------------------------------
-
-Group: Undefined
-Name: TeleMistretta (1080p)
-URL: https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8
-Logo: https://i.imgur.com/BLhvyEi.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: TeleMistretta.it@SD
---------------------------------------------------
-
-Group: Undefined
-Name: TeleMia Extra (576p)
-URL: https://playerssl.telemia.tv/fileadmin/hls/TelemiaExtra/telemiaextra_mediachunks.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/a/a6/Telemia.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: TeleMiaExtra.it@SD
---------------------------------------------------
-
 Group: General
 Name: Telechiara (720p)
 URL: http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
@@ -1151,19 +1047,11 @@ TVG ID: TeleChiara.it@SD
 --------------------------------------------------
 
 Group: Undefined
-Name: TeleMia (576p)
-URL: https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/a/a6/Telemia.png
+Name: Telefriuli (1080p)
+URL: https://5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/playlist.m3u8
+Logo: https://i.imgur.com/He3uCs6.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: TeleMia.it@SD
---------------------------------------------------
-
-Group: General
-Name: T9 (288p)
-URL: https://streaming.softwarecreation.it/tnove/tnove/playlist.m3u8
-Logo: https://i.imgur.com/kQKzpYj.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: T9.it@SD
+TVG ID: Telefriuli.it@SD
 --------------------------------------------------
 
 Group: Undefined
@@ -1172,6 +1060,14 @@ URL: https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/play
 Logo: https://i.imgur.com/QfJqBno.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
 TVG ID: TelecolorLombardia.it@SD
+--------------------------------------------------
+
+Group: Religious
+Name: Telepace 1 (1080p)
+URL: https://jk3lz2bwlw79-hls-live.mariatvcdn.it/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/playlist.m3u8
+Logo: https://i.imgur.com/TpdsPWG.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: Telepace1.it@SD
 --------------------------------------------------
 
 Group: General
@@ -1183,35 +1079,19 @@ TVG ID: TeleRama.it@SD
 --------------------------------------------------
 
 Group: Undefined
-Name: Telefriuli (1080p)
-URL: https://5757bf2aa08e42248fb9b9d620f5d900.msvdn.net/live/S11646715/pE3ax0lT0rBd/playlist.m3u8
-Logo: https://i.imgur.com/He3uCs6.png
+Name: TeleMia (576p)
+URL: https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/a/a6/Telemia.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: Telefriuli.it@SD
---------------------------------------------------
-
-Group: Culture;Religious
-Name: Telepace 2 (1080p)
-URL: https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8
-Logo: https://i.imgur.com/qvcf6QC.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: Telepace2.it@SD
+TVG ID: TeleMia.it@SD
 --------------------------------------------------
 
 Group: Undefined
-Name: Telenova (720p)
-URL: https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8
-Logo: https://i.imgur.com/lo9OiWg.png
+Name: TeleMia Extra (576p)
+URL: https://playerssl.telemia.tv/fileadmin/hls/TelemiaExtra/telemiaextra_mediachunks.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/a/a6/Telemia.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: Telenova.it@SD
---------------------------------------------------
-
-Group: Religious
-Name: TeleSanDomenico (1080p)
-URL: https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8
-Logo: https://i.imgur.com/l52v9uv.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: TeleSanDomenico.it@SD
+TVG ID: TeleMiaExtra.it@SD
 --------------------------------------------------
 
 Group: Family
@@ -1222,12 +1102,12 @@ Source: https://iptv-org.github.io/iptv/languages/ita.m3u
 TVG ID: ThePetCollective.us@Italy
 --------------------------------------------------
 
-Group: Religious
-Name: Telepace Trento (540p)
-URL: https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8
-Logo: https://tvtvtv.ru/icons/telepace_trento.png
+Group: Undefined
+Name: Telenova (720p)
+URL: https://64b16f23efbee.streamlock.net/telenova/telenova/playlist.m3u8
+Logo: https://i.imgur.com/lo9OiWg.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: TelepaceTrento.it@SD
+TVG ID: Telenova.it@SD
 --------------------------------------------------
 
 Group: Undefined
@@ -1238,6 +1118,46 @@ Source: https://iptv-org.github.io/iptv/languages/ita.m3u
 TVG ID: Teletricolore.it@SD
 --------------------------------------------------
 
+Group: Religious
+Name: Telepace 4 (1080p)
+URL: https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8
+Logo: https://i.imgur.com/JKHEL1H.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: Telepace4.it@SD
+--------------------------------------------------
+
+Group: Religious
+Name: Telepace Trento (540p)
+URL: https://5a1178b42cc03.streamlock.net/telepacetrento/telepacetrento/playlist.m3u8
+Logo: https://tvtvtv.ru/icons/telepace_trento.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: TelepaceTrento.it@SD
+--------------------------------------------------
+
+Group: Religious
+Name: TeleSanDomenico (1080p)
+URL: https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8
+Logo: https://i.imgur.com/l52v9uv.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: TeleSanDomenico.it@SD
+--------------------------------------------------
+
+Group: Education;Religious
+Name: Telepace 3 (1080p)
+URL: https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8
+Logo: https://i.imgur.com/hE4i2ft.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: Telepace3.it@SD
+--------------------------------------------------
+
+Group: Culture;Religious
+Name: Telepace 2 (1080p)
+URL: https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8
+Logo: https://i.imgur.com/qvcf6QC.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: Telepace2.it@SD
+--------------------------------------------------
+
 Group: News
 Name: tv9 Telemaremma (576p)
 URL: https://rtmp-live-ingest-us-east-1-universe-dacast-com.akamaized.net/transmuxv1/streams/2095a288-1384-ed2e-5da0-278ccbb72295.m3u8
@@ -1246,20 +1166,20 @@ Source: https://iptv-org.github.io/iptv/languages/ita.m3u
 TVG ID: tv9Telemaremma.it@HD
 --------------------------------------------------
 
-Group: General
-Name: Teleromagna (480p)
-URL: https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
-Logo: https://i.imgur.com/GGPtHX3.png
+Group: Undefined
+Name: TV Prato (1080p)
+URL: https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/index.m3u8
+Logo: https://i.imgur.com/72mAJtf.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: Teleromagna.it@SD
+TVG ID: TVPrato.it@SD
 --------------------------------------------------
 
 Group: Undefined
-Name: TeleTicino (720p)
-URL: https://vstream-cdn.ch/hls/teleticino.m3u8
-Logo: https://i.postimg.cc/j5qL9mmn/teleticino.png
+Name: TeleTusciaSabina 2000 (576p) [Not 24/7]
+URL: http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/playlist.m3u8
+Logo: https://i.imgur.com/cfexNL9.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: TeleTicino.ch@SD
+TVG ID: TeleTusciaSabina2000.it@SD
 --------------------------------------------------
 
 Group: Undefined
@@ -1271,6 +1191,14 @@ TVG ID: TVQuiModena.it@SD
 --------------------------------------------------
 
 Group: General
+Name: Teleromagna (480p)
+URL: https://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
+Logo: https://i.imgur.com/GGPtHX3.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: Teleromagna.it@SD
+--------------------------------------------------
+
+Group: General
 Name: TV Campane 1 (720p)
 URL: https://eu1.servers10.com:8081/8032/index.m3u8
 Logo: https://i.imgur.com/GsdVpll.png
@@ -1279,19 +1207,11 @@ TVG ID: TVCampane1.it@SD
 --------------------------------------------------
 
 Group: Undefined
-Name: Visual Radio (576p) [Not 24/7]
-URL: http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
-Logo: https://i.imgur.com/ah14ah0.png
+Name: TeleTicino (720p)
+URL: https://vstream-cdn.ch/hls/teleticino.m3u8
+Logo: https://i.postimg.cc/j5qL9mmn/teleticino.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: VisualRadio.it@SD
---------------------------------------------------
-
-Group: Undefined
-Name: TV7 Benevento (288p) [Not 24/7]
-URL: http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8
-Logo: https://i.imgur.com/VBhVaKB.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: TV7Benevento.it@SD
+TVG ID: TeleTicino.ch@SD
 --------------------------------------------------
 
 Group: Undefined
@@ -1311,11 +1231,19 @@ TVG ID: TRSport.it@SD
 --------------------------------------------------
 
 Group: Undefined
-Name: TeleTusciaSabina 2000 (576p) [Not 24/7]
-URL: http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/playlist.m3u8
-Logo: https://i.imgur.com/cfexNL9.png
+Name: Visual Radio (576p) [Not 24/7]
+URL: http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
+Logo: https://i.imgur.com/ah14ah0.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: TeleTusciaSabina2000.it@SD
+TVG ID: VisualRadio.it@SD
+--------------------------------------------------
+
+Group: Religious
+Name: TV 2000 (720p)
+URL: https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/512px-Logo_tv2000_2015.svg.png
+Source: https://iptv-org.github.io/iptv/languages/ita.m3u
+TVG ID: TV2000.it@SD
 --------------------------------------------------
 
 Group: Undefined
@@ -1334,22 +1262,6 @@ Source: https://iptv-org.github.io/iptv/languages/ita.m3u
 TVG ID: TVAVicenza.it@SD
 --------------------------------------------------
 
-Group: Religious
-Name: TV 2000 (720p)
-URL: https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/512px-Logo_tv2000_2015.svg.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: TV2000.it@SD
---------------------------------------------------
-
-Group: Religious
-Name: Telepace 1 (1080p)
-URL: https://jk3lz2bwlw79-hls-live.mariatvcdn.it/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/playlist.m3u8
-Logo: https://i.imgur.com/TpdsPWG.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: Telepace1.it@SD
---------------------------------------------------
-
 Group: Undefined
 Name: TG Norba 24 (404p)
 URL: https://router.xdevel.com/video0s976570-1326/stream/playlist_dvr.m3u8
@@ -1358,27 +1270,11 @@ Source: https://iptv-org.github.io/iptv/languages/ita.m3u
 TVG ID: TGNorba24.it@SD
 --------------------------------------------------
 
-Group: Education;Religious
-Name: Telepace 3 (1080p)
-URL: https://932y4273djv8-hls-live.mariatvcdn.it/teleradiopace3/d2274c22e9ee09eb2eda01ed0496f8f5.sdp/playlist.m3u8
-Logo: https://i.imgur.com/hE4i2ft.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: Telepace3.it@SD
---------------------------------------------------
-
 Group: Undefined
-Name: TV Prato (1080p)
-URL: https://live.mariatvcdn.com/tvprato/2db0dd5674586686a867ec52c3aa8e06.sdp/index.m3u8
-Logo: https://i.imgur.com/72mAJtf.png
+Name: TV7 Benevento (288p) [Not 24/7]
+URL: http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8
+Logo: https://i.imgur.com/VBhVaKB.png
 Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: TVPrato.it@SD
---------------------------------------------------
-
-Group: Religious
-Name: Telepace 4 (1080p)
-URL: https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8
-Logo: https://i.imgur.com/JKHEL1H.png
-Source: https://iptv-org.github.io/iptv/languages/ita.m3u
-TVG ID: Telepace4.it@SD
+TVG ID: TV7Benevento.it@SD
 --------------------------------------------------
 
