@@ -1,6 +1,104 @@
 {
-  "date": "2026-11-14 10:26:20",
+  "date": "2026-11-14 20:15:08",
   "channels": {
+    "Entertainment": [
+      {
+        "name": "CG Entertainment (720p)",
+        "logo": "https://i.imgur.com/XeWzy7e.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8",
+        "tvg_id": "CGEntertainment.it@SD"
+      },
+      {
+        "name": "Discovery Channel (Italy) HD (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "http://102.129.186.182:81/discovery/index.m3u8",
+        "tvg_id": "DiscoveryChannel.it@HD"
+      },
+      {
+        "name": "7 Gold (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/7gold.jpg/960px-7gold.jpg",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8",
+        "tvg_id": "7Gold.it@SD"
+      },
+      {
+        "name": "Discovery Channel (Italy) (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8",
+        "tvg_id": "DiscoveryChannel.it@SD"
+      },
+      {
+        "name": "Giallo (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Giallo_-_Logo_2014.svg/960px-Giallo_-_Logo_2014.svg.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8",
+        "tvg_id": "Giallo.it@SD"
+      },
+      {
+        "name": "16 Anni e Incinta",
+        "logo": "https://images.pluto.tv/channels/60940a07d88ba90007b9cb71/colorLogoPNG.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8",
+        "tvg_id": "16AnnieIncinta.de@IT"
+      },
+      {
+        "name": "Il Banco dei Pugni",
+        "logo": "https://i.imgur.com/NZDUlME.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://jmp2.uk/plu-60e4507a06171800072339a3.m3u8",
+        "tvg_id": "IlBancodeiPugni.us@Italy"
+      },
+      {
+        "name": "Italia 2 (480p) [Geo-blocked]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_Italia2.svg/960px-Logo_Italia2.svg.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8",
+        "tvg_id": "Italia2.it@SD"
+      },
+      {
+        "name": "Geordie Shore (Germany)",
+        "logo": "https://images.pluto.tv/channels/619263ee9541940007d20d60/colorLogoPNG.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://jmp2.uk/plu-619263ee9541940007d20d60.m3u8",
+        "tvg_id": "GeordieShore.de@IT"
+      },
+      {
+        "name": "Il Testimone",
+        "logo": "https://images.pluto.tv/channels/61fbd3f0733df400076c9a2d/colorLogoPNG.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://jmp2.uk/plu-61fbd3f0733df400076c9a2d.m3u8",
+        "tvg_id": "IlTestimone.de@IT"
+      },
+      {
+        "name": "Pluto TV Shore",
+        "logo": "https://images.pluto.tv/channels/67e3b0d2443f0671bc8a1297/colorLogoPNG_1747721158520.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://jmp2.uk/plu-67e3b0d2443f0671bc8a1297.m3u8",
+        "tvg_id": "PlutoTVShore.de@IT"
+      },
+      {
+        "name": "Teen Mom (Germany)",
+        "logo": "https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/colorLogoPNG.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://jmp2.uk/plu-62e7fc8c0d061100083946a9.m3u8",
+        "tvg_id": "TeenMom.de@IT"
+      }
+    ],
     "Animation;Kids": [
       {
         "name": "Cartoon Network (Italy)",
@@ -125,20 +223,20 @@
         "tvg_id": "SuperiCarly.us@Italy"
       },
       {
-        "name": "Super! Pop",
-        "logo": "https://i.imgur.com/2FfREQE.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://jmp2.uk/plu-6093f7b5bb49b90007cecaad.m3u8",
-        "tvg_id": "SuperPop.us@Italy"
-      },
-      {
         "name": "Super! SpongeBob (720p)",
         "logo": "https://i.imgur.com/65wxNn4.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
         "url": "https://jmp2.uk/plu-6093f9281db477000759fce0.m3u8",
         "tvg_id": "SuperSpongeBob.us@Italy"
+      },
+      {
+        "name": "Super! Pop",
+        "logo": "https://i.imgur.com/2FfREQE.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://jmp2.uk/plu-6093f7b5bb49b90007cecaad.m3u8",
+        "tvg_id": "SuperPop.us@Italy"
       }
     ],
     "Outdoor": [
@@ -193,105 +291,15 @@
         "tvg_id": "PlutoTVScherzierisate.de@IT"
       }
     ],
-    "Entertainment": [
-      {
-        "name": "Discovery Channel (Italy) HD (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "http://102.129.186.182:81/discovery/index.m3u8",
-        "tvg_id": "DiscoveryChannel.it@HD"
-      },
-      {
-        "name": "Discovery Channel (Italy) (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/960px-2019_Discovery_logo.svg.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8",
-        "tvg_id": "DiscoveryChannel.it@SD"
-      },
-      {
-        "name": "CG Entertainment (720p)",
-        "logo": "https://i.imgur.com/XeWzy7e.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8",
-        "tvg_id": "CGEntertainment.it@SD"
-      },
-      {
-        "name": "7 Gold (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/7gold.jpg/960px-7gold.jpg",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8",
-        "tvg_id": "7Gold.it@SD"
-      },
-      {
-        "name": "Giallo (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Giallo_-_Logo_2014.svg/960px-Giallo_-_Logo_2014.svg.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/GIALLO/CMAF/index.m3u8",
-        "tvg_id": "Giallo.it@SD"
-      },
-      {
-        "name": "16 Anni e Incinta",
-        "logo": "https://images.pluto.tv/channels/60940a07d88ba90007b9cb71/colorLogoPNG.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://jmp2.uk/plu-60940a07d88ba90007b9cb71.m3u8",
-        "tvg_id": "16AnnieIncinta.de@IT"
-      },
-      {
-        "name": "Il Testimone",
-        "logo": "https://images.pluto.tv/channels/61fbd3f0733df400076c9a2d/colorLogoPNG.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://jmp2.uk/plu-61fbd3f0733df400076c9a2d.m3u8",
-        "tvg_id": "IlTestimone.de@IT"
-      },
-      {
-        "name": "Il Banco dei Pugni",
-        "logo": "https://i.imgur.com/NZDUlME.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://jmp2.uk/plu-60e4507a06171800072339a3.m3u8",
-        "tvg_id": "IlBancodeiPugni.us@Italy"
-      },
-      {
-        "name": "Italia 2 (480p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_Italia2.svg/960px-Logo_Italia2.svg.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8",
-        "tvg_id": "Italia2.it@SD"
-      },
-      {
-        "name": "Geordie Shore (Germany)",
-        "logo": "https://images.pluto.tv/channels/619263ee9541940007d20d60/colorLogoPNG.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://jmp2.uk/plu-619263ee9541940007d20d60.m3u8",
-        "tvg_id": "GeordieShore.de@IT"
-      },
-      {
-        "name": "Pluto TV Shore",
-        "logo": "https://images.pluto.tv/channels/67e3b0d2443f0671bc8a1297/colorLogoPNG_1747721158520.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://jmp2.uk/plu-67e3b0d2443f0671bc8a1297.m3u8",
-        "tvg_id": "PlutoTVShore.de@IT"
-      },
-      {
-        "name": "Teen Mom (Germany)",
-        "logo": "https://images.pluto.tv/channels/62e7fc8c0d061100083946a9/colorLogoPNG.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://jmp2.uk/plu-62e7fc8c0d061100083946a9.m3u8",
-        "tvg_id": "TeenMom.de@IT"
-      }
-    ],
     "General": [
+      {
+        "name": "Antenna 2 TV (720p)",
+        "logo": "https://i.imgur.com/kNrzk3X.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8",
+        "tvg_id": "Antenna2TV.it@SD"
+      },
       {
         "name": "Canale 7 (480p)",
         "logo": "https://canale7.tv/assets/front/img/fb_logo.jpg",
@@ -299,14 +307,6 @@
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
         "url": "http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8",
         "tvg_id": "Canale7.it@SD"
-      },
-      {
-        "name": "12 TV Parma (540p) [Not 24/7]",
-        "logo": "https://i.imgur.com/mBYxWOg.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8",
-        "tvg_id": "12TVParma.it@SD"
       },
       {
         "name": "AltoAdige TV (720p)",
@@ -317,20 +317,28 @@
         "tvg_id": "AltoAdigeTV.it@SD"
       },
       {
-        "name": "Antenna 2 TV (720p)",
-        "logo": "https://i.imgur.com/kNrzk3X.png",
+        "name": "12 TV Parma (540p) [Not 24/7]",
+        "logo": "https://i.imgur.com/mBYxWOg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://58f12ffd2447a.streamlock.net/Antenna2/livestream/playlist.m3u8",
-        "tvg_id": "Antenna2TV.it@SD"
+        "url": "https://5929b138b139d.streamlock.net/12TVParma/livestream/playlist.m3u8",
+        "tvg_id": "12TVParma.it@SD"
       },
       {
-        "name": "Canale 2 Altamura (576p) [Not 24/7]",
-        "logo": "https://i.imgur.com/7XXdN5T.png",
+        "name": "50 Canale",
+        "logo": "https://i.imgur.com/D3OTRzf.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://59d7d6f47d7fc.streamlock.net/canale2/canale2/playlist.m3u8",
-        "tvg_id": "Canale2Altamura.it@SD"
+        "url": "https://load-balancer.azotosolutions.com/cdnedge37/canale50/playlist.m3u8",
+        "tvg_id": "50Canale.it@SD"
+      },
+      {
+        "name": "Calabria TV (1080p)",
+        "logo": "https://i.imgur.com/noTgJJp.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u8",
+        "tvg_id": "CalabriaTV.it@SD"
       },
       {
         "name": "111 TV (720p)",
@@ -341,12 +349,12 @@
         "tvg_id": "111TV.it@SD"
       },
       {
-        "name": "Calabria TV (1080p)",
-        "logo": "https://i.imgur.com/noTgJJp.png",
+        "name": "DI.TV 80 (720p)",
+        "logo": "https://i.imgur.com/2AqKAMy.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u8",
-        "tvg_id": "CalabriaTV.it@SD"
+        "url": "https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8",
+        "tvg_id": "DITV80.it@SD"
       },
       {
         "name": "Bom Channel (720p)",
@@ -365,12 +373,20 @@
         "tvg_id": "EliveTVBrescia.it@SD"
       },
       {
-        "name": "DI.TV 80 (720p)",
-        "logo": "https://i.imgur.com/2AqKAMy.png",
+        "name": "Bergamo TV (1080p)",
+        "logo": "https://i.imgur.com/Np3RaKv.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://5f22d76e220e1.streamlock.net/ditv80/ditv80/playlist.m3u8",
-        "tvg_id": "DITV80.it@SD"
+        "url": "https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist_dvr.m3u8",
+        "tvg_id": "BergamoTV.it@SD"
+      },
+      {
+        "name": "Deejay TV (1080p)",
+        "logo": "https://i.imgur.com/YV27Chs.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8",
+        "tvg_id": "DeejayTV.it@SD"
       },
       {
         "name": "Esperia TV (480p)",
@@ -389,14 +405,6 @@
         "tvg_id": "LA7.it@HD"
       },
       {
-        "name": "Entella TV (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/pGJcMmB.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8",
-        "tvg_id": "EntellaTV.it@SD"
-      },
-      {
         "name": "Italia 1 HD",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Italia_1_logo.svg/500px-Italia_1_logo.svg.png",
         "group": "General",
@@ -405,44 +413,12 @@
         "tvg_id": "Italia1.it@HD"
       },
       {
-        "name": "Bergamo TV (1080p)",
-        "logo": "https://i.imgur.com/Np3RaKv.png",
+        "name": "Entella TV (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/pGJcMmB.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://db142859fd5541b09de25d6507f1f2d3.msvdn.net/live/S17501676/oIxAsgEEA46M/playlist_dvr.m3u8",
-        "tvg_id": "BergamoTV.it@SD"
-      },
-      {
-        "name": "Deejay TV (1080p)",
-        "logo": "https://i.imgur.com/YV27Chs.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8",
-        "tvg_id": "DeejayTV.it@SD"
-      },
-      {
-        "name": "Icaro TV (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/nWBWzNy.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8",
-        "tvg_id": "IcaroTV.it@SD"
-      },
-      {
-        "name": "Mediaset Italia (1080p)",
-        "logo": "https://i.imgur.com/F4gyqhw.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://d3k8wzt41aflvx.cloudfront.net/MediasetEU/Live.m3u8",
-        "tvg_id": "MediasetItalia.it@SD"
-      },
-      {
-        "name": "Mediaset Italia Australia (1080p)",
-        "logo": "https://i.imgur.com/F4gyqhw.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://d3k8wzt41aflvx.cloudfront.net/Mediaset_AU/Live.m3u8",
-        "tvg_id": "MediasetItalia.it@Australia"
+        "url": "https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8",
+        "tvg_id": "EntellaTV.it@SD"
       },
       {
         "name": "Azzurra TV (576p)",
@@ -453,12 +429,44 @@
         "tvg_id": "AzzurraTV.it@SD"
       },
       {
+        "name": "La Nuova TV (720p)",
+        "logo": "https://i.imgur.com/OHMv86A.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://5dcabf026b188.streamlock.net/lanuovatvbas/livestream/playlist.m3u8",
+        "tvg_id": "LaNuovaTV.it@SD"
+      },
+      {
+        "name": "Mediaset Italia (1080p)",
+        "logo": "https://i.imgur.com/F4gyqhw.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://d3k8wzt41aflvx.cloudfront.net/MediasetEU/Live.m3u8",
+        "tvg_id": "MediasetItalia.it@SD"
+      },
+      {
         "name": "Mediaset Italia USA (1080p)",
         "logo": "https://i.imgur.com/F4gyqhw.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
         "url": "https://d3k8wzt41aflvx.cloudfront.net/MediasetUSA/Live.m3u8",
         "tvg_id": "MediasetItalia.it@USA"
+      },
+      {
+        "name": "Icaro TV (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/nWBWzNy.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://59d7d6f47d7fc.streamlock.net/icarotv/icarotv/playlist.m3u8",
+        "tvg_id": "IcaroTV.it@SD"
+      },
+      {
+        "name": "Mediaset Italia Australia (1080p)",
+        "logo": "https://i.imgur.com/F4gyqhw.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://d3k8wzt41aflvx.cloudfront.net/Mediaset_AU/Live.m3u8",
+        "tvg_id": "MediasetItalia.it@Australia"
       },
       {
         "name": "GRP VERATV (576p)",
@@ -469,20 +477,20 @@
         "tvg_id": "GRPVERATV.it@SD"
       },
       {
+        "name": "Cusano Italia TV (720p)",
+        "logo": "https://i.imgur.com/fOluzuE.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8",
+        "tvg_id": "CusanoItaliaTV.it@SD"
+      },
+      {
         "name": "Espansione TV (576p)",
         "logo": "https://i.imgur.com/NZJi7mm.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
         "url": "https://b53136fc0d724da78cac7754d601393d.msvdn.net/live/S13070333/lgUidxJCmpO3/playlist.m3u8",
         "tvg_id": "EspansioneTV.it@SD"
-      },
-      {
-        "name": "50 Canale",
-        "logo": "https://i.imgur.com/D3OTRzf.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://load-balancer.azotosolutions.com/cdnedge37/canale50/playlist.m3u8",
-        "tvg_id": "50Canale.it@SD"
       },
       {
         "name": "Nove (1080p)",
@@ -493,28 +501,12 @@
         "tvg_id": "Nove.it@SD"
       },
       {
-        "name": "Cusano Italia TV (720p)",
-        "logo": "https://i.imgur.com/fOluzuE.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8",
-        "tvg_id": "CusanoItaliaTV.it@SD"
-      },
-      {
         "name": "Lombardia TV (720p)",
         "logo": "https://i.imgur.com/frVhm9q.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
         "url": "https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8",
         "tvg_id": "LombardiaTV.it@SD"
-      },
-      {
-        "name": "La TR3 Marsala (720p)",
-        "logo": "https://i.imgur.com/R4sqZQu.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8",
-        "tvg_id": "LaTR3Marsala.it@SD"
       },
       {
         "name": "La C TV (720p)",
@@ -525,12 +517,20 @@
         "tvg_id": "LaCTV.it@SD"
       },
       {
-        "name": "Onda Novara TV (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/DTxhOhT.png",
+        "name": "La TR3 Marsala (720p)",
+        "logo": "https://i.imgur.com/R4sqZQu.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://585b674743bbb.streamlock.net/9006/9006/master.m3u8",
-        "tvg_id": "OndaNovaraTV.it@SD"
+        "url": "https://tsw.streamingwebtv24.it:1936/eslife1/eslife1/playlist.m3u8",
+        "tvg_id": "LaTR3Marsala.it@SD"
+      },
+      {
+        "name": "Odeon 24 (576p)",
+        "logo": "https://i.imgur.com/Ho7SdXY.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://5f11919dca3bd.streamlock.net/odeonjump/_definst_/odeonjump/playlist.m3u8",
+        "tvg_id": "Odeon24.it@SD"
       },
       {
         "name": "Onda TV (Italy) (568p)",
@@ -539,6 +539,14 @@
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
         "url": "https://5926fc9c7c5b2.streamlock.net/9040/9040/chunklist_w1373908906.m3u8",
         "tvg_id": "OndaTV.it@SD"
+      },
+      {
+        "name": "Onda Novara TV (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/DTxhOhT.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://585b674743bbb.streamlock.net/9006/9006/master.m3u8",
+        "tvg_id": "OndaNovaraTV.it@SD"
       },
       {
         "name": "Le Cronache TV (720p)",
@@ -565,20 +573,20 @@
         "tvg_id": "PrimaFree.it@SD"
       },
       {
-        "name": "Radio Norba TV (1080p)",
-        "logo": "https://i.imgur.com/Tucoyzy.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://stream12.xdevel.com/video0s975885-2349/stream/playlist_dvr.m3u8",
-        "tvg_id": "RadioNorbaTV.it@SD"
-      },
-      {
         "name": "Promovideo TV (486p)",
         "logo": "https://i.imgur.com/eKpS5Ck.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
         "url": "https://media2021.rtvweb.com/promovideo_web/promovideo/playlist.m3u8",
         "tvg_id": "PromovideoTV.it@SD"
+      },
+      {
+        "name": "Radio Norba TV (1080p)",
+        "logo": "https://i.imgur.com/Tucoyzy.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://stream12.xdevel.com/video0s975885-2349/stream/playlist_dvr.m3u8",
+        "tvg_id": "RadioNorbaTV.it@SD"
       },
       {
         "name": "Rete 8 (1080p)",
@@ -645,20 +653,20 @@
         "tvg_id": "Telemantova.it@SD"
       },
       {
-        "name": "TeleMajg (480p)",
-        "logo": "https://i.imgur.com/j5fnQ1h.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8",
-        "tvg_id": "TeleMajg.it@SD"
-      },
-      {
         "name": "Telecity Lombardia (1080p)",
         "logo": "https://i.imgur.com/TxApoQf.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
         "url": "https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8",
         "tvg_id": "TelecityLombardia.it@SD"
+      },
+      {
+        "name": "TeleMajg (480p)",
+        "logo": "https://i.imgur.com/j5fnQ1h.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8",
+        "tvg_id": "TeleMajg.it@SD"
       },
       {
         "name": "TeleRama (576p)",
@@ -687,20 +695,20 @@
     ],
     "Undefined": [
       {
-        "name": "CafeTV24 (720p)",
-        "logo": "https://i.imgur.com/SRFzjja.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://srvx1.selftv.video/cafe/live/playlist.m3u8",
-        "tvg_id": "CafeTV24.it@SD"
-      },
-      {
         "name": "Canale 8 (480p)",
         "logo": "https://i.imgur.com/xwYmFgj.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
         "url": "http://wms.shared.streamshow.it/canale8/canale8/playlist.m3u8",
         "tvg_id": "Canale8.it@SD"
+      },
+      {
+        "name": "CafeTV24 (720p)",
+        "logo": "https://i.imgur.com/SRFzjja.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://srvx1.selftv.video/cafe/live/playlist.m3u8",
+        "tvg_id": "CafeTV24.it@SD"
       },
       {
         "name": "Deluxe 139 (480p)",
@@ -743,28 +751,12 @@
         "tvg_id": "Radio51TV.it@SD"
       },
       {
-        "name": "Rai 2 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png",
+        "name": "Radio Ibiza TV (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/KfFqYQi.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8",
-        "tvg_id": "Rai2.it@SD"
-      },
-      {
-        "name": "Rai 3 (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8",
-        "tvg_id": "Rai3.it@HD"
-      },
-      {
-        "name": "Radio Monte Carlo TV",
-        "logo": "https://i.imgur.com/by9XvWF.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "http://95.141.36.9:8080/stream/180/index.m3u8",
-        "tvg_id": "RadioMonteCarloTV.it@SD"
+        "url": "https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8",
+        "tvg_id": "RadioIbizaTV.it@SD"
       },
       {
         "name": "Radio Birikina TV (720p) [Not 24/7]",
@@ -775,20 +767,28 @@
         "tvg_id": "RadioBirikinaTV.it@SD"
       },
       {
-        "name": "Primocanale (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/eunZ2Sa.png",
+        "name": "Rai 2 (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8",
-        "tvg_id": "Primocanale.it@SD"
+        "url": "https://d3k8wzt41aflvx.cloudfront.net/RAI2/Live.m3u8",
+        "tvg_id": "Rai2.it@SD"
       },
       {
-        "name": "Rai Italia South Americas (1080p)",
-        "logo": "https://i.imgur.com/1nN4rEP.png",
+        "name": "Radio Monte Carlo TV",
+        "logo": "https://i.imgur.com/by9XvWF.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://d3k8wzt41aflvx.cloudfront.net/RAISA/Live.m3u8",
-        "tvg_id": "RaiItalia.it@SouthAmericas"
+        "url": "http://95.141.36.9:8080/stream/180/index.m3u8",
+        "tvg_id": "RadioMonteCarloTV.it@SD"
+      },
+      {
+        "name": "Rai 3 (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://d3k8wzt41aflvx.cloudfront.net/RAI3/Live.m3u8",
+        "tvg_id": "Rai3.it@HD"
       },
       {
         "name": "Radio Iglesias (576p) [Geo-blocked]",
@@ -799,12 +799,12 @@
         "tvg_id": "RadioIglesias.it@SD"
       },
       {
-        "name": "Radio Ibiza TV (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/KfFqYQi.png",
+        "name": "Radio Iglesias Sardegna (576p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/KDtVpLl.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://5929b138b139d.streamlock.net/RadioIbizaTV/livestream/playlist.m3u8",
-        "tvg_id": "RadioIbizaTV.it@SD"
+        "url": "https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8",
+        "tvg_id": "RadioIglesiasSardegna.it@SD"
       },
       {
         "name": "Radio Number One (720p) [Not 24/7]",
@@ -815,6 +815,14 @@
         "tvg_id": "RadioNumberOne.it@SD"
       },
       {
+        "name": "Rai Italia South Americas (1080p)",
+        "logo": "https://i.imgur.com/1nN4rEP.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://d3k8wzt41aflvx.cloudfront.net/RAISA/Live.m3u8",
+        "tvg_id": "RaiItalia.it@SouthAmericas"
+      },
+      {
         "name": "Rai Italia North Americas (1080p)",
         "logo": "https://i.imgur.com/1nN4rEP.png",
         "group": "Undefined",
@@ -823,28 +831,12 @@
         "tvg_id": "RaiItalia.it@NorthAmericas"
       },
       {
-        "name": "Rai 3 Friuli Venezia Giulia (408p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://tgrfriuli-live.akamaized.net/hls/live/2025564/tgrfriuli/tgrfriuli/playlist.m3u8",
-        "tvg_id": "Rai3.it@FriuliVeneziaGiulia"
-      },
-      {
         "name": "Rai World Premium (1080p)",
         "logo": "https://i.imgur.com/tDuKkh3.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
         "url": "https://d3k8wzt41aflvx.cloudfront.net/RAIP/Live.m3u8",
         "tvg_id": "RaiWorldPremium.it@SD"
-      },
-      {
-        "name": "Radio Studio Delta TV (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/xJqVOpn.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8",
-        "tvg_id": "RadioStudioDeltaTV.it@SD"
       },
       {
         "name": "Rai Storia (1080p)",
@@ -863,12 +855,20 @@
         "tvg_id": "Rai2.it@HD"
       },
       {
-        "name": "Radio Iglesias Sardegna (576p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/KDtVpLl.png",
+        "name": "Radio Studio Delta TV (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/xJqVOpn.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://59d7d6f47d7fc.streamlock.net/visualradio/visualradio/playlist.m3u8",
-        "tvg_id": "RadioIglesiasSardegna.it@SD"
+        "url": "https://5ce9406b73c33.streamlock.net/RSD/ngrp:livestream_all/playlist.m3u8",
+        "tvg_id": "RadioStudioDeltaTV.it@SD"
+      },
+      {
+        "name": "Primocanale (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/eunZ2Sa.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://msh0203.stream.seeweb.it/live/flv:stream2.sdp/playlist.m3u8",
+        "tvg_id": "Primocanale.it@SD"
       },
       {
         "name": "Rai 5 (576p)",
@@ -887,6 +887,14 @@
         "tvg_id": "Rai4.it@HD"
       },
       {
+        "name": "Rai 3 Friuli Venezia Giulia (408p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://tgrfriuli-live.akamaized.net/hls/live/2025564/tgrfriuli/tgrfriuli/playlist.m3u8",
+        "tvg_id": "Rai3.it@FriuliVeneziaGiulia"
+      },
+      {
         "name": "Rai Premium",
         "logo": "https://i.imgur.com/40g5Urz.png",
         "group": "Undefined",
@@ -895,12 +903,28 @@
         "tvg_id": "RaiPremium.it@SD"
       },
       {
-        "name": "Rai 3 Trentino-Alto Adige Trento (408p)",
+        "name": "Real Time (1080p)",
+        "logo": "https://i.imgur.com/SPlk2Gx.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8",
+        "tvg_id": "RealTime.it@SD"
+      },
+      {
+        "name": "Rai 3 Trentino-Alto Adige Bolzano (408p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://tgrtrento-live.akamaized.net/hls/live/2025575/tgrtrento/tgrtrento/playlist.m3u8",
-        "tvg_id": "Rai3.it@TrentinoAltoAdigeTrento"
+        "url": "https://tgrbolzano-live.akamaized.net/hls/live/2025560/tgrbolzano/tgrbolzano/playlist.m3u8",
+        "tvg_id": "Rai3.it@TrentinoAltoAdigeBolzano"
+      },
+      {
+        "name": "Rai 3 BIS FJK (408p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://tgrfriulibis-live.akamaized.net/hls/live/2025579/tgrfriulibis/tgrfriulibis/playlist.m3u8",
+        "tvg_id": "Rai3.it@BISFJK"
       },
       {
         "name": "Rai 1 (720p)",
@@ -919,20 +943,12 @@
         "tvg_id": "Rete4.it@HD"
       },
       {
-        "name": "Rai 3 BIS FJK (408p)",
+        "name": "Rai 3 Trentino-Alto Adige Trento (408p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://tgrfriulibis-live.akamaized.net/hls/live/2025579/tgrfriulibis/tgrfriulibis/playlist.m3u8",
-        "tvg_id": "Rai3.it@BISFJK"
-      },
-      {
-        "name": "Rai 3 Trentino-Alto Adige Bolzano (408p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://tgrbolzano-live.akamaized.net/hls/live/2025560/tgrbolzano/tgrbolzano/playlist.m3u8",
-        "tvg_id": "Rai3.it@TrentinoAltoAdigeBolzano"
+        "url": "https://tgrtrento-live.akamaized.net/hls/live/2025575/tgrtrento/tgrtrento/playlist.m3u8",
+        "tvg_id": "Rai3.it@TrentinoAltoAdigeTrento"
       },
       {
         "name": "Real Time HD (720p)",
@@ -951,44 +967,12 @@
         "tvg_id": "RadioTaorminaSicilia.it@SD"
       },
       {
-        "name": "RDS Social TV (720p)",
-        "logo": "https://i.imgur.com/bxGvE8C.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8",
-        "tvg_id": "RDSSocialTV.it@SD"
-      },
-      {
-        "name": "Real Time (1080p)",
-        "logo": "https://i.imgur.com/SPlk2Gx.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/REALTIME/CMAF/index.m3u8",
-        "tvg_id": "RealTime.it@SD"
-      },
-      {
         "name": "ReggioTV (480p) [Not 24/7]",
         "logo": "https://i.imgur.com/cEwJkRV.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
         "url": "https://cdn10.streamshow.it/cloud-reggiotv/reggiotv/playlist.m3u8",
         "tvg_id": "ReggioTV.it@SD"
-      },
-      {
-        "name": "Rete 55",
-        "logo": "https://i.imgur.com/UtS9YLc.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://live1.giocabet.tv/stream/6/index.m3u8",
-        "tvg_id": "Rete55.it@SD"
-      },
-      {
-        "name": "RTTR Trento (720p)",
-        "logo": "https://i.imgur.com/6DyzN8M.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8",
-        "tvg_id": "RTTRTrento.it@SD"
       },
       {
         "name": "San Marino RTV (720p)",
@@ -999,6 +983,22 @@
         "tvg_id": "SanMarinoRTV.sm@SD"
       },
       {
+        "name": "RTTR Trento (720p)",
+        "logo": "https://i.imgur.com/6DyzN8M.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8",
+        "tvg_id": "RTTRTrento.it@SD"
+      },
+      {
+        "name": "Rete 55",
+        "logo": "https://i.imgur.com/UtS9YLc.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://live1.giocabet.tv/stream/6/index.m3u8",
+        "tvg_id": "Rete55.it@SD"
+      },
+      {
         "name": "Rete Oro (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/3oYiBSz.png",
         "group": "Undefined",
@@ -1007,12 +1007,12 @@
         "tvg_id": "ReteOro.it@SD"
       },
       {
-        "name": "RTP (Italy) (404p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/it/thumb/8/86/Logo_Radio_Televisione_Peloritana.svg/512px-Logo_Radio_Televisione_Peloritana.svg.png",
+        "name": "RDS Social TV (720p)",
+        "logo": "https://i.imgur.com/bxGvE8C.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8",
-        "tvg_id": "RTP.it@SD"
+        "url": "https://stream.rdstv.radio/out/v1/ec85f72b87f04555aa41d616d5be41dc/index.m3u8",
+        "tvg_id": "RDSSocialTV.it@SD"
       },
       {
         "name": "Rete Biella TV (720p) [Not 24/7]",
@@ -1023,28 +1023,20 @@
         "tvg_id": "ReteBiellaTV.it@SD"
       },
       {
+        "name": "RTP (Italy) (404p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/it/thumb/8/86/Logo_Radio_Televisione_Peloritana.svg/512px-Logo_Radio_Televisione_Peloritana.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8",
+        "tvg_id": "RTP.it@SD"
+      },
+      {
         "name": "Tele Abruzzo (384p)",
         "logo": "https://i.imgur.com/XymK2PR.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
         "url": "http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8",
         "tvg_id": "TeleAbruzzo.it@SD"
-      },
-      {
-        "name": "Sophia TV (Italy) (720p)",
-        "logo": "https://i.imgur.com/RPXusvS.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8",
-        "tvg_id": "SophiaTV.it@SD"
-      },
-      {
-        "name": "Stereo 5 TV (720p)",
-        "logo": "https://i.imgur.com/sCDcYFW.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://stream1.aswifi.it/stereo5/live/index.m3u8",
-        "tvg_id": "Stereo5TV.it@SD"
       },
       {
         "name": "TeleArena (480p)",
@@ -1055,6 +1047,22 @@
         "tvg_id": "TeleArena.it@SD"
       },
       {
+        "name": "Stereo 5 TV (720p)",
+        "logo": "https://i.imgur.com/sCDcYFW.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://stream1.aswifi.it/stereo5/live/index.m3u8",
+        "tvg_id": "Stereo5TV.it@SD"
+      },
+      {
+        "name": "Sophia TV (Italy) (720p)",
+        "logo": "https://i.imgur.com/RPXusvS.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8",
+        "tvg_id": "SophiaTV.it@SD"
+      },
+      {
         "name": "Telefoggia (480p) [Not 24/7]",
         "logo": "https://i.imgur.com/ImvO2rV.png",
         "group": "Undefined",
@@ -1063,20 +1071,20 @@
         "tvg_id": "Telefoggia.it@SD"
       },
       {
-        "name": "TeleMistretta (1080p)",
-        "logo": "https://i.imgur.com/BLhvyEi.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8",
-        "tvg_id": "TeleMistretta.it@SD"
-      },
-      {
         "name": "TeleMia (576p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Telemia.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
         "url": "https://playerssl.telemia.tv/fileadmin/hls/TelemiaHD/telemia85_mediachunks.m3u8",
         "tvg_id": "TeleMia.it@SD"
+      },
+      {
+        "name": "TeleMistretta (1080p)",
+        "logo": "https://i.imgur.com/BLhvyEi.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://live.mariatvcdn.com/telemistretta/8fbcd205ada81b295ee6c211c3a80dde.sdp/playlist.m3u8",
+        "tvg_id": "TeleMistretta.it@SD"
       },
       {
         "name": "TeleMia Extra (576p)",
@@ -1111,6 +1119,14 @@
         "tvg_id": "Telenova.it@SD"
       },
       {
+        "name": "Telemontecarlo (720p)",
+        "logo": "https://i.imgur.com/B0NbjcT.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://stream10.xdevel.com/video17s975955-2173/stream/playlist.m3u8",
+        "tvg_id": "Telemontecarlo.it@SD"
+      },
+      {
         "name": "TV8 (Italy) (720p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TV8_logo.svg/500px-TV8_logo.svg.png",
         "group": "Undefined",
@@ -1119,12 +1135,12 @@
         "tvg_id": "TV8.it@SD"
       },
       {
-        "name": "TVA Vicenza (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/it/thumb/0/0f/TVA_Vicenza_-_Logo_2018.svg/512px-TVA_Vicenza_-_Logo_2018.svg.png",
+        "name": "Teletricolore (480p) [Not 24/7]",
+        "logo": "https://i.imgur.com/GajzIN6.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8",
-        "tvg_id": "TVAVicenza.it@SD"
+        "url": "https://59d7d6f47d7fc.streamlock.net/rs2/rs2/playlist.m3u8",
+        "tvg_id": "Teletricolore.it@SD"
       },
       {
         "name": "TV Prato (1080p)",
@@ -1135,14 +1151,6 @@
         "tvg_id": "TVPrato.it@SD"
       },
       {
-        "name": "TV Qui Modena (480p)",
-        "logo": "https://i.imgur.com/YfMVNDE.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8",
-        "tvg_id": "TVQuiModena.it@SD"
-      },
-      {
         "name": "TeleTicino (720p)",
         "logo": "https://i.imgur.com/u6dLKa9.png",
         "group": "Undefined",
@@ -1151,20 +1159,20 @@
         "tvg_id": "TeleTicino.ch@SD"
       },
       {
-        "name": "Visual Radio (576p) [Not 24/7]",
-        "logo": "https://i.imgur.com/ah14ah0.png",
+        "name": "TV7 Benevento (288p) [Not 24/7]",
+        "logo": "https://i.imgur.com/VBhVaKB.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8",
-        "tvg_id": "VisualRadio.it@SD"
+        "url": "http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8",
+        "tvg_id": "TV7Benevento.it@SD"
       },
       {
-        "name": "TeleTusciaSabina 2000 (576p) [Not 24/7]",
-        "logo": "https://i.imgur.com/cfexNL9.png",
+        "name": "TV Qui Modena (480p)",
+        "logo": "https://i.imgur.com/YfMVNDE.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/playlist.m3u8",
-        "tvg_id": "TeleTusciaSabina2000.it@SD"
+        "url": "https://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8",
+        "tvg_id": "TVQuiModena.it@SD"
       },
       {
         "name": "UniNettuno University TV (720p)",
@@ -1173,6 +1181,22 @@
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
         "url": "https://stream6-rai-it.akamaized.net/live/uninettuno/playlist.m3u8",
         "tvg_id": "UniNettunoUniversityTV.it@SD"
+      },
+      {
+        "name": "TVA Vicenza (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/it/thumb/0/0f/TVA_Vicenza_-_Logo_2018.svg/512px-TVA_Vicenza_-_Logo_2018.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8",
+        "tvg_id": "TVAVicenza.it@SD"
+      },
+      {
+        "name": "TeleTusciaSabina 2000 (576p) [Not 24/7]",
+        "logo": "https://i.imgur.com/cfexNL9.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "http://ts2000tv.streaming.nextware.it:8081/ts2000tv/ts2000tv/playlist.m3u8",
+        "tvg_id": "TeleTusciaSabina2000.it@SD"
       },
       {
         "name": "TV Yes Italia (720p)",
@@ -1189,22 +1213,6 @@
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
         "url": "https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8",
         "tvg_id": "UmbriaTV.it@SD"
-      },
-      {
-        "name": "Telemontecarlo (720p)",
-        "logo": "https://i.imgur.com/B0NbjcT.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://stream10.xdevel.com/video17s975955-2173/stream/playlist.m3u8",
-        "tvg_id": "Telemontecarlo.it@SD"
-      },
-      {
-        "name": "TV7 Benevento (288p) [Not 24/7]",
-        "logo": "https://i.imgur.com/VBhVaKB.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "http://streaming.senecadot.com/live/flv:tv7.sdp/playlist.m3u8",
-        "tvg_id": "TV7Benevento.it@SD"
       }
     ],
     "Music": [
@@ -1241,20 +1249,20 @@
         "tvg_id": "7080TV.it@SD"
       },
       {
-        "name": "Kiss Kiss Napoli TV (720p)",
-        "logo": "https://i.imgur.com/RsGiBwE.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8",
-        "tvg_id": "KissKissNapoliTV.it@SD"
-      },
-      {
         "name": "Kiss Kiss TV (1080p)",
         "logo": "https://i.imgur.com/ja6c2YZ.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
         "url": "https://58f12ffd2447a.streamlock.net/KKMulti/livestream/playlist.m3u8",
         "tvg_id": "KissKissTV.it@SD"
+      },
+      {
+        "name": "Kiss Kiss Napoli TV (720p)",
+        "logo": "https://i.imgur.com/RsGiBwE.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8",
+        "tvg_id": "KissKissNapoliTV.it@SD"
       },
       {
         "name": "m2o TV (1080p)",
@@ -1273,14 +1281,6 @@
         "tvg_id": "RadioBrunoTV.it@SD"
       },
       {
-        "name": "Radio Piter Pan TV (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/hbqVWV4.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8",
-        "tvg_id": "RadioPiterPanTV.it@SD"
-      },
-      {
         "name": "RADIO DISCOunt TV (1080p)",
         "logo": "https://i.imgur.com/ScNYMmx.png",
         "group": "Music",
@@ -1289,12 +1289,12 @@
         "tvg_id": "RADIODISCOuntTV.ch@SD"
       },
       {
-        "name": "Radiofreccia (1080p)",
-        "logo": "https://i.imgur.com/RxeRlar.png",
+        "name": "Radio Piter Pan TV (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/hbqVWV4.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8",
-        "tvg_id": "Radiofreccia.it@SD"
+        "url": "https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8",
+        "tvg_id": "RadioPiterPanTV.it@SD"
       },
       {
         "name": "Radio Zeta (1080p)",
@@ -1303,6 +1303,14 @@
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
         "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8",
         "tvg_id": "RadioZeta.it@SD"
+      },
+      {
+        "name": "Radiofreccia (1080p)",
+        "logo": "https://i.imgur.com/RxeRlar.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8",
+        "tvg_id": "Radiofreccia.it@SD"
       },
       {
         "name": "Romantic FM (576i)",
@@ -1321,28 +1329,12 @@
         "tvg_id": "RTL1025Best.it@SD"
       },
       {
-        "name": "RTL 102.5 Caliente (1080p)",
-        "logo": "https://i.imgur.com/P0zsi6I.png",
+        "name": "RTL 102.5 Napule (1080p)",
+        "logo": "https://i.imgur.com/HFPw1YW.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8",
-        "tvg_id": "RTL1025Caliente.it@SD"
-      },
-      {
-        "name": "RTL 102.5 Disco (1080p)",
-        "logo": "https://i.imgur.com/JA1OPrz.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8",
-        "tvg_id": "RTL1025Disco.it@SD"
-      },
-      {
-        "name": "RTL 102.5 Traffic (1080p)",
-        "logo": "https://i.imgur.com/EBftMcB.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8",
-        "tvg_id": "RTL1025Traffic.it@SD"
+        "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8",
+        "tvg_id": "RTL1025Napule.it@SD"
       },
       {
         "name": "RTL 102.5 TV (1080p)",
@@ -1353,12 +1345,12 @@
         "tvg_id": "RTL1025TV.it@SD"
       },
       {
-        "name": "RTL 102.5 Napule (1080p)",
-        "logo": "https://i.imgur.com/HFPw1YW.png",
+        "name": "RTL 102.5 Disco (1080p)",
+        "logo": "https://i.imgur.com/JA1OPrz.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_video.m3u8",
-        "tvg_id": "RTL1025Napule.it@SD"
+        "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_video.m3u8",
+        "tvg_id": "RTL1025Disco.it@SD"
       },
       {
         "name": "RTL 102.5 Bro&Sis (1080p)",
@@ -1367,17 +1359,51 @@
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
         "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_video.m3u8",
         "tvg_id": "RTL1025BroSis.it@SD"
+      },
+      {
+        "name": "RTL 102.5 Traffic (1080p)",
+        "logo": "https://i.imgur.com/EBftMcB.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8",
+        "tvg_id": "RTL1025Traffic.it@SD"
+      },
+      {
+        "name": "RTL 102.5 Caliente (1080p)",
+        "logo": "https://i.imgur.com/P0zsi6I.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_video.m3u8",
+        "tvg_id": "RTL1025Caliente.it@SD"
+      }
+    ],
+    "Culture": [
+      {
+        "name": "Aurora Arte (480p)",
+        "logo": "https://i.imgur.com/Y1Yq3iV.png",
+        "group": "Culture",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8",
+        "tvg_id": "AuroraArte.it@SD"
+      },
+      {
+        "name": "Paci Contemporary Channel (720p)",
+        "logo": "https://i.imgur.com/RtOvD2M.png",
+        "group": "Culture",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8",
+        "tvg_id": "PaciContemporaryChannel.it@SD"
+      },
+      {
+        "name": "Orler TV (420p) [Not 24/7]",
+        "logo": "https://i.imgur.com/Ia7iULa.png",
+        "group": "Culture",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8",
+        "tvg_id": "OrlerTV.it@SD"
       }
     ],
     "Lifestyle": [
-      {
-        "name": "DMAX (Italy) (1080p)",
-        "logo": "https://i.imgur.com/uGd9fnn.png",
-        "group": "Lifestyle",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8",
-        "tvg_id": "DMAX.it@SD"
-      },
       {
         "name": "DMAX (Italy) HD (720p)",
         "logo": "https://i.imgur.com/uGd9fnn.png",
@@ -1385,6 +1411,14 @@
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
         "url": "http://102.129.186.182:81/dmax/index.m3u8",
         "tvg_id": "DMAX.it@HD"
+      },
+      {
+        "name": "DMAX (Italy) (1080p)",
+        "logo": "https://i.imgur.com/uGd9fnn.png",
+        "group": "Lifestyle",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DMAX/CMAF/index.m3u8",
+        "tvg_id": "DMAX.it@SD"
       },
       {
         "name": "HGTV (Italy) (1080p)",
@@ -1409,16 +1443,6 @@
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
         "url": "https://jmp2.uk/plu-63c923944207be0007fd0887.m3u8",
         "tvg_id": "PlutoTVViaggi.de@IT"
-      }
-    ],
-    "Auto": [
-      {
-        "name": "Discovery Turbo (Italy) (1080p)",
-        "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Discovery_Turbo_Italy.svg/1920px-Discovery_Turbo_Italy.svg.png",
-        "group": "Auto",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8",
-        "tvg_id": "DiscoveryTurbo.it@SD"
       }
     ],
     "Legislative": [
@@ -1455,42 +1479,6 @@
         "tvg_id": "SenatoTV.it@SD"
       }
     ],
-    "Culture": [
-      {
-        "name": "Aurora Arte (480p)",
-        "logo": "https://i.imgur.com/Y1Yq3iV.png",
-        "group": "Culture",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8",
-        "tvg_id": "AuroraArte.it@SD"
-      },
-      {
-        "name": "Paci Contemporary Channel (720p)",
-        "logo": "https://i.imgur.com/RtOvD2M.png",
-        "group": "Culture",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://5f22d76e220e1.streamlock.net/pacicontemporarychannel/pacicontemporarychannel/playlist.m3u8",
-        "tvg_id": "PaciContemporaryChannel.it@SD"
-      },
-      {
-        "name": "Orler TV (420p) [Not 24/7]",
-        "logo": "https://i.imgur.com/Ia7iULa.png",
-        "group": "Culture",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8",
-        "tvg_id": "OrlerTV.it@SD"
-      }
-    ],
-    "Cooking": [
-      {
-        "name": "Food Network (Italy) (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png",
-        "group": "Cooking",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8",
-        "tvg_id": "FoodNetwork.it@SD"
-      }
-    ],
     "Sports": [
       {
         "name": "ACI Sport TV SD (1080p)",
@@ -1517,6 +1505,14 @@
         "tvg_id": "HorseTV.it@SD"
       },
       {
+        "name": "MadeinBO TV (1080p)",
+        "logo": "https://i.imgur.com/47X44DD.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://srvx1.selftv.video/dmchannel/live/playlist.m3u8",
+        "tvg_id": "MadeinBOTV.it@SD"
+      },
+      {
         "name": "Nautical Channel (720p)",
         "logo": "https://i.imgur.com/2ByDyzL.png",
         "group": "Sports",
@@ -1531,14 +1527,6 @@
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
         "url": "http://team-tv.co:81/milan/index.m3u8",
         "tvg_id": "MilanTV.it@SD"
-      },
-      {
-        "name": "MadeinBO TV (1080p)",
-        "logo": "https://i.imgur.com/47X44DD.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://srvx1.selftv.video/dmchannel/live/playlist.m3u8",
-        "tvg_id": "MadeinBOTV.it@SD"
       },
       {
         "name": "Pluto TV Sport (Germany)",
@@ -1589,6 +1577,16 @@
         "tvg_id": "TRSport.it@SD"
       }
     ],
+    "Auto": [
+      {
+        "name": "Discovery Turbo (Italy) (1080p)",
+        "logo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Discovery_Turbo_Italy.svg/1920px-Discovery_Turbo_Italy.svg.png",
+        "group": "Auto",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/TURBO/CMAF/index.m3u8",
+        "tvg_id": "DiscoveryTurbo.it@SD"
+      }
+    ],
     "Shop": [
       {
         "name": "Casa Italia 53 (720p)",
@@ -1605,6 +1603,16 @@
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
         "url": "https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8",
         "tvg_id": "QVC.it@SD"
+      }
+    ],
+    "Cooking": [
+      {
+        "name": "Food Network (Italy) (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/960px-Food_Network_New_Logo.png",
+        "group": "Cooking",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/FOODNETWORK/CMAF/index.m3u8",
+        "tvg_id": "FoodNetwork.it@SD"
       }
     ],
     "Documentary": [
@@ -1675,6 +1683,14 @@
         "tvg_id": "MinformoTV.it@SD"
       },
       {
+        "name": "LaC News 24 (720p)",
+        "logo": "https://www.omnys.com/media/news/lac-news24-icona.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8",
+        "tvg_id": "LaCNews24.it@SD"
+      },
+      {
         "name": "L'altro Corriere TV (720p)",
         "logo": "https://i.imgur.com/05YWVCq.png",
         "group": "News",
@@ -1691,14 +1707,6 @@
         "tvg_id": "LiraTV.it@SD"
       },
       {
-        "name": "LaC News 24 (720p)",
-        "logo": "https://www.omnys.com/media/news/lac-news24-icona.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8",
-        "tvg_id": "LaCNews24.it@SD"
-      },
-      {
         "name": "Rai News 24 HD (1080p)",
         "logo": "https://i.imgur.com/n2u57y3.png",
         "group": "News",
@@ -1707,20 +1715,20 @@
         "tvg_id": "RaiNews24.it@HD"
       },
       {
-        "name": "Telegela 647 (720p)",
-        "logo": "https://i.imgur.com/ppkX45f.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://64b16f23efbee.streamlock.net/telegela/telegela/playlist.m3u8",
-        "tvg_id": "Telegela647.it@SD"
-      },
-      {
         "name": "TGCom24 (720p)",
         "logo": "https://i.imgur.com/fPmvbGH.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
         "url": "https://d3k8wzt41aflvx.cloudfront.net/TGCOM24/Live.m3u8",
         "tvg_id": "TGCom24.it@SD"
+      },
+      {
+        "name": "Telegela 647 (720p)",
+        "logo": "https://i.imgur.com/ppkX45f.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://64b16f23efbee.streamlock.net/telegela/telegela/playlist.m3u8",
+        "tvg_id": "Telegela647.it@SD"
       },
       {
         "name": "tv9 Telemaremma (576p)",
@@ -1775,6 +1783,24 @@
         "tvg_id": "CinCin.de@IT"
       }
     ],
+    "Cooking;Lifestyle": [
+      {
+        "name": "Gambero Rosso Channel (720p)",
+        "logo": "https://i.imgur.com/x5cwb1q.png",
+        "group": "Cooking;Lifestyle",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://jmp2.uk/plu-6971fc07c945e6e4e5bc46bf.m3u8",
+        "tvg_id": "GamberoRossoChannel.it@SD"
+      },
+      {
+        "name": "Pluto TV Cucina",
+        "logo": "https://images.pluto.tv/channels/608aa718a8ec810007d87fee/colorLogoPNG_1774519163545.png",
+        "group": "Cooking;Lifestyle",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://jmp2.uk/plu-608aa718a8ec810007d87fee.m3u8",
+        "tvg_id": "PlutoTVCucina.de@IT"
+      }
+    ],
     "Religious": [
       {
         "name": "Giovanni Paolo TV (1080p)",
@@ -1785,14 +1811,6 @@
         "tvg_id": "GiovanniPaoloTV.it@SD"
       },
       {
-        "name": "Medjugorje Italia TV (480p)",
-        "logo": "",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8",
-        "tvg_id": "MedjugorjeItaliaTV.it@SD"
-      },
-      {
         "name": "Padre Pio TV (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/en/a/a4/Padre_Pio_TV.jpg",
         "group": "Religious",
@@ -1801,12 +1819,28 @@
         "tvg_id": "PadrePioTV.it@SD"
       },
       {
+        "name": "Medjugorje Italia TV (480p)",
+        "logo": "",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://5f22d76e220e1.streamlock.net/medjugorjeitaliatv/medjugorjeitaliatv/playlist.m3u8",
+        "tvg_id": "MedjugorjeItaliaTV.it@SD"
+      },
+      {
         "name": "Parole di Vita (1080p)",
         "logo": "https://i.imgur.com/vkFlXbR.png",
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
         "url": "https://stream.paroledivita.org/paroledivita.m3u8",
         "tvg_id": "ParolediVita.it@SD"
+      },
+      {
+        "name": "Telepace 4 (1080p)",
+        "logo": "https://i.imgur.com/JKHEL1H.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8",
+        "tvg_id": "Telepace4.it@SD"
       },
       {
         "name": "Telepace 1 (1080p)",
@@ -1823,14 +1857,6 @@
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
         "url": "https://stream.mariatvcdn.com/tsd/7c59373bfdb38201b9215ff86f0ce6af.sdp/playlist.m3u8",
         "tvg_id": "TeleSanDomenico.it@SD"
-      },
-      {
-        "name": "Telepace 4 (1080p)",
-        "logo": "https://i.imgur.com/JKHEL1H.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc262697203d47d8f.sdp/playlist.m3u8",
-        "tvg_id": "Telepace4.it@SD"
       },
       {
         "name": "Telepace Trento (540p)",
@@ -1851,30 +1877,6 @@
     ],
     "Movies": [
       {
-        "name": "Pluto TV Cinema Italiano",
-        "logo": "https://images.pluto.tv/channels/608aa7d8359b270007861489/colorLogoPNG.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://jmp2.uk/plu-608aa7d8359b270007861489.m3u8",
-        "tvg_id": "PlutoTVCinemaItaliano.de@IT"
-      },
-      {
-        "name": "Pluto TV Alberto Sordi",
-        "logo": "https://images.pluto.tv/channels/661f8f01801af800083d9d81/colorLogoPNG.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://jmp2.uk/plu-661f8f01801af800083d9d81.m3u8",
-        "tvg_id": "PlutoTVAlbertoSordi.de@IT"
-      },
-      {
-        "name": "Pluto TV Christmas tutto l'anno",
-        "logo": "https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG_1770018716998.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://jmp2.uk/plu-612e05b885183d0007958101.m3u8",
-        "tvg_id": "PlutoTVChristmastuttolanno.de@IT"
-      },
-      {
         "name": "Pluto TV Film Azione",
         "logo": "https://images.pluto.tv/channels/608aa20a2e7f270007c4878d/colorLogoPNG.png",
         "group": "Movies",
@@ -1883,28 +1885,12 @@
         "tvg_id": "PlutoTVFilmAzione.de@IT"
       },
       {
-        "name": "Pluto TV Film (Germany)",
-        "logo": "https://images.pluto.tv/channels/608aa17fb9f4490007e6419a/colorLogoPNG_1733013735186.png",
+        "name": "Pluto TV Film Romantici",
+        "logo": "https://images.pluto.tv/channels/608aa4a4cc92820007b663af/colorLogoPNG.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://jmp2.uk/plu-608aa17fb9f4490007e6419a.m3u8",
-        "tvg_id": "PlutoTVFilm.de@IT"
-      },
-      {
-        "name": "Pluto TV Cinema Orientale",
-        "logo": "https://images.pluto.tv/channels/6786235bd648bf0008c2780a/colorLogoPNG.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://jmp2.uk/plu-6786235bd648bf0008c2780a.m3u8",
-        "tvg_id": "PlutoTVCinemaOrientale.de@IT"
-      },
-      {
-        "name": "Pluto TV Film Commedia",
-        "logo": "https://images.pluto.tv/channels/608aa512d67fd900072323db/colorLogoPNG.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://jmp2.uk/plu-608aa512d67fd900072323db.m3u8",
-        "tvg_id": "PlutoTVFilmCommedia.de@IT"
+        "url": "https://jmp2.uk/plu-608aa4a4cc92820007b663af.m3u8",
+        "tvg_id": "PlutoTVFilmRomantici.de@IT"
       },
       {
         "name": "Pluto TV Film Thriller",
@@ -1915,12 +1901,60 @@
         "tvg_id": "PlutoTVFilmThriller.de@IT"
       },
       {
-        "name": "Pluto TV Film Romantici",
-        "logo": "https://images.pluto.tv/channels/608aa4a4cc92820007b663af/colorLogoPNG.png",
+        "name": "Pluto TV Cinema Italiano",
+        "logo": "https://images.pluto.tv/channels/608aa7d8359b270007861489/colorLogoPNG.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://jmp2.uk/plu-608aa4a4cc92820007b663af.m3u8",
-        "tvg_id": "PlutoTVFilmRomantici.de@IT"
+        "url": "https://jmp2.uk/plu-608aa7d8359b270007861489.m3u8",
+        "tvg_id": "PlutoTVCinemaItaliano.de@IT"
+      },
+      {
+        "name": "Pluto TV Notti di Passione",
+        "logo": "https://images.pluto.tv/channels/6911c9704316999535eb21cf/colorLogoPNG_1766041294522.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://jmp2.uk/plu-6911c9704316999535eb21cf.m3u8",
+        "tvg_id": "PlutoTVNottidiPassione.de@IT"
+      },
+      {
+        "name": "Pluto TV Christmas tutto l'anno",
+        "logo": "https://images.pluto.tv/channels/612e05b885183d0007958101/colorLogoPNG_1770018716998.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://jmp2.uk/plu-612e05b885183d0007958101.m3u8",
+        "tvg_id": "PlutoTVChristmastuttolanno.de@IT"
+      },
+      {
+        "name": "Pluto TV Alberto Sordi",
+        "logo": "https://images.pluto.tv/channels/661f8f01801af800083d9d81/colorLogoPNG.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://jmp2.uk/plu-661f8f01801af800083d9d81.m3u8",
+        "tvg_id": "PlutoTVAlbertoSordi.de@IT"
+      },
+      {
+        "name": "Pluto TV Cinema Orientale",
+        "logo": "https://images.pluto.tv/channels/6786235bd648bf0008c2780a/colorLogoPNG.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://jmp2.uk/plu-6786235bd648bf0008c2780a.m3u8",
+        "tvg_id": "PlutoTVCinemaOrientale.de@IT"
+      },
+      {
+        "name": "Pluto TV Film (Germany)",
+        "logo": "https://images.pluto.tv/channels/608aa17fb9f4490007e6419a/colorLogoPNG_1733013735186.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://jmp2.uk/plu-608aa17fb9f4490007e6419a.m3u8",
+        "tvg_id": "PlutoTVFilm.de@IT"
+      },
+      {
+        "name": "Pluto TV Film Commedia",
+        "logo": "https://images.pluto.tv/channels/608aa512d67fd900072323db/colorLogoPNG.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://jmp2.uk/plu-608aa512d67fd900072323db.m3u8",
+        "tvg_id": "PlutoTVFilmCommedia.de@IT"
       },
       {
         "name": "Pluto TV Legami Letali",
@@ -1947,28 +1981,20 @@
         "tvg_id": "PlutoTVSerieSciFi.de@IT"
       },
       {
-        "name": "Pluto TV Western IT",
-        "logo": "https://images.pluto.tv/channels/630dd3b2605f140007e002f5/colorLogoPNG_1732030684562.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://jmp2.uk/plu-62e7fb67478a5b0007e6c50c.m3u8",
-        "tvg_id": "PlutoTVWestern.de@IT"
-      },
-      {
-        "name": "Pluto TV Notti di Passione",
-        "logo": "https://images.pluto.tv/channels/6911c9704316999535eb21cf/colorLogoPNG_1766041294522.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://jmp2.uk/plu-6911c9704316999535eb21cf.m3u8",
-        "tvg_id": "PlutoTVNottidiPassione.de@IT"
-      },
-      {
         "name": "Pluto TV Toto",
         "logo": "https://images.pluto.tv/channels/65253f9881f942000833ccd5/colorLogoPNG_1774617972809.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
         "url": "https://jmp2.uk/plu-65253f9881f942000833ccd5.m3u8",
         "tvg_id": "PlutoTVToto.de@IT"
+      },
+      {
+        "name": "Pluto TV Western IT",
+        "logo": "https://images.pluto.tv/channels/630dd3b2605f140007e002f5/colorLogoPNG_1732030684562.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "https://jmp2.uk/plu-62e7fb67478a5b0007e6c50c.m3u8",
+        "tvg_id": "PlutoTVWestern.de@IT"
       },
       {
         "name": "Rai Movie HD (1080p)",
@@ -1979,22 +2005,6 @@
         "tvg_id": "RaiMovie.it@HD"
       },
       {
-        "name": "Sky Cinema Due",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sky_Cinema_Due_-_Logo_2021.svg/960px-Sky_Cinema_Due_-_Logo_2021.svg.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "http://109.169.87.42:8080/stream/10/index.m3u8",
-        "tvg_id": "SkyCinemaDue.it@SD"
-      },
-      {
-        "name": "Sky Cinema Collection",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sky_Cinema_Collection_-_Logo_2021.svg/960px-Sky_Cinema_Collection_-_Logo_2021.svg.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "http://109.169.87.42:8080/stream/18/index.m3u8",
-        "tvg_id": "SkyCinemaCollection.it@SD"
-      },
-      {
         "name": "Sky Cinema Action",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Sky_Cinema_Action_-_Logo_2021.svg/960px-Sky_Cinema_Action_-_Logo_2021.svg.png",
         "group": "Movies",
@@ -2003,12 +2013,28 @@
         "tvg_id": "SkyCinemaAction.it@SD"
       },
       {
+        "name": "Sky Cinema Due",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sky_Cinema_Due_-_Logo_2021.svg/960px-Sky_Cinema_Due_-_Logo_2021.svg.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "http://109.169.87.42:8080/stream/10/index.m3u8",
+        "tvg_id": "SkyCinemaDue.it@SD"
+      },
+      {
         "name": "Sky Cinema Family",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sky_Cinema_Family_-_Logo_2021.svg/960px-Sky_Cinema_Family_-_Logo_2021.svg.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
         "url": "http://109.169.87.42:8080/stream/22/index.m3u8",
         "tvg_id": "SkyCinemaFamily.it@SD"
+      },
+      {
+        "name": "Sky Cinema Collection",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sky_Cinema_Collection_-_Logo_2021.svg/960px-Sky_Cinema_Collection_-_Logo_2021.svg.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
+        "url": "http://109.169.87.42:8080/stream/18/index.m3u8",
+        "tvg_id": "SkyCinemaCollection.it@SD"
       },
       {
         "name": "Sky Cinema Suspense",
@@ -2025,24 +2051,6 @@
         "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
         "url": "http://109.169.87.42:8080/stream/2/index.m3u8",
         "tvg_id": "SkyCinemaUno.it@SD"
-      }
-    ],
-    "Cooking;Lifestyle": [
-      {
-        "name": "Gambero Rosso Channel (720p)",
-        "logo": "https://i.imgur.com/x5cwb1q.png",
-        "group": "Cooking;Lifestyle",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://jmp2.uk/plu-6971fc07c945e6e4e5bc46bf.m3u8",
-        "tvg_id": "GamberoRossoChannel.it@SD"
-      },
-      {
-        "name": "Pluto TV Cucina",
-        "logo": "https://images.pluto.tv/channels/608aa718a8ec810007d87fee/colorLogoPNG_1774519163545.png",
-        "group": "Cooking;Lifestyle",
-        "source": "https://iptv-org.github.io/iptv/languages/ita.m3u",
-        "url": "https://jmp2.uk/plu-608aa718a8ec810007d87fee.m3u8",
-        "tvg_id": "PlutoTVCucina.de@IT"
       }
     ],
     "Outdoor;Travel": [
